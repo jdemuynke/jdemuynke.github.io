@@ -1,23 +1,23 @@
 {
   "basics": {
     "name": "Julien De Muynke",
-    "label": "Digital Signal Processing researcher",
+    "label": "Digital Signal Processing Researcher",
     "picture": "https://jdemuynke.github.io/template/images/icon.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "julien.demuynke@gmail.com",
+#    "phone": "+34 622 11 62 60",
+    "website": "https://jdemuynke.github.io",
+    "summary": "I am a signal processing researcher in the field of binaural and 3D audio, and passionate about music and audio in general...",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "08028",
+      "city": "Barcelona",
+      "countryCode": "Spain",
+      #"region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "jdemuynke",
         "url": "http://github.com/changeme"
       },
       {
