@@ -4,7 +4,6 @@
     "label": "Digital Signal Processing Researcher",
     "picture": "https://jdemuynke.github.io/template/images/icon.jpg",
     "email": "julien.demuynke@gmail.com",
-#    "phone": "+34 622 11 62 60",
     "website": "https://jdemuynke.github.io",
     "summary": "I am a signal processing researcher in the field of binaural and 3D audio, and passionate about music and audio in general...",
     "location": {
@@ -12,7 +11,6 @@
       "postalCode": "08028",
       "city": "Barcelona",
       "countryCode": "Spain",
-      #"region": "Hawaii"
     },
     "profiles": [
       {
@@ -29,11 +27,6 @@
         "network": "twitter",
         "username": "mollymal",
         "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
