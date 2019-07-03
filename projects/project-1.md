@@ -16,16 +16,5 @@ summary: For BINCI project we developed a suite of plugins for mixing in binaura
   <img class="ui image" src="../images/StAndrews_porch_reduced.jpg">
 </div>
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 
