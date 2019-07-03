@@ -14,6 +14,10 @@ summary: For BINCI project we developed a suite of plugins for mixing in binaura
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/StAndrews_porch_reduced.jpg">
+  <img class="ui image" src="../images/StAndrews_tunnel_reduced.jpg">
+  <img class="ui image" src="../images/Pinakotheken_reduced.jpg">
+  <img class="ui image" src="../images/Miro_reduced.jpg">
+
 </div>
 
 
