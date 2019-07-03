@@ -5,7 +5,7 @@ image: images/logo_binci_v4.jpg
 title: Binaural Tools for the Creative Industries, H2020 Project
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2017 - 2018
+date: 2017-01-01
 labels:
   - Binaural audio
   - Ambisonics Room Inpulse Response
@@ -28,8 +28,5 @@ byte ADCRead(byte ch)
     return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
 }
 ```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
 
 
