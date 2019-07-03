@@ -1,15 +1,13 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/SFEAR-2560x1600.jpg
+title: Sfëar
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-01-01
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - 3D audio plugins
+summary: Sfëar is a spin-off company that brings to the market the suite of plugins developed at Eurecat. UNDER CONSTRUCTION...
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
