@@ -10,7 +10,6 @@ labels:
   - Binaural audio
   - Ambisonics Room Inpulse Response
 summary: For BINCI project we developed a suite of plugins for mixing in binaural the audio guides content of some museums and cultural sites, plus an ambisonics player supporting head tracking for an enhanced visitor experience.
-projecturl: https://binci.eu/
 ---
 
 <div class="ui small rounded images">
