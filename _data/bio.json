@@ -16,7 +16,7 @@
       {
         "network": "github",
         "username": "jdemuynke",
-        "url": "https://jdemuynke.github.io/"
+        "url": "https://github.com/jdemuynke/"
       },
       {
         "network": "linkedin",
@@ -29,13 +29,14 @@
     {
       "name": "Music in bands",
       "keywords": [
-        "",
-        ""
+        "Acoustic guitar",
+        "Bass guitar"
       ]
     },
     {
       "name": "Board games",
       "keywords": [
+        "2TomatoesGames"
       ]
     },
     {
@@ -53,31 +54,27 @@
         "Python",
         "Max/MSP",
         "C++",
-        "",
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "MacOS",
         "Reaper",
-        "Git/GitHub",
-        "",
-        ""
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": [
+      "institution": "Aalborg Universitet, Denmark",
+      "area": "Department of Acoustics",
+      "studyType": "Master's graduation project",
+      "startDate": "2005",
+      "endDate": "2005",
+      "Project": "Design of a real time acoustic feedback canceller for a live audio installation",
+      "courses": ["Fundamental of acoustics","Electroacoustics","Digital and analog audio","Acoustic measurements"
+      ]
+    },{
+      "institution": "ENSEA, Cergy-Pontoise, France",
+      "area": "Real time signal processing and digital communications",
+      "studyType": "Engineering Degree",
+      "startDate": "2002",
+      "endDate": "2005",
       ]
     }
   ],
