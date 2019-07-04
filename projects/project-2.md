@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/metrica2.jpg
+image: images/metrica2_1280_1024.jpg
 title: Métrica Studios, Ibiza, Spain
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-01
