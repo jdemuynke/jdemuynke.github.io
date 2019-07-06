@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SFEAR-1280_1024.jpg
+image: images/SFEAR-1280_1024_recadre.jpg
 title: Sfëar
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-01
