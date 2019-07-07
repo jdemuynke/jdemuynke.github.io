@@ -7,9 +7,11 @@ title: Sfëar
 date: 2019-01-01
 labels:
   - 3D audio plugins
-summary: Sfëar is a spin-off company that brings to the market the suite of plugins developed at Eurecat. UNDER CONSTRUCTION...
----
+summary: Sfëar is a spin-off company that brings to the market the suite of plugins developed at Eurecat. 
 
+projecturl: https://sfear.com/
+---
+<!---
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
@@ -57,3 +59,4 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
+-->
