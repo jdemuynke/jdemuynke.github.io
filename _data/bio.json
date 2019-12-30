@@ -5,22 +5,20 @@
     "picture": "https://jdemuynke.github.io/images/icon_reduced.jpg",
     "email": "julien.demuynke@gmail.com",
     "website": "https://jdemuynke.github.io",
-    "summary": "I am a signal processing researcher in the field of binaural and 3D audio, and passionate about music and audio in general...",
+    "summary": "I am a signal processing researcher in the field of binaural and 3D audio, and passionate about music and audio in general.",
     "location": {
-      "address": "",
-      "postalCode": "08028",
       "city": "Barcelona",
-      "countryCode": "Spain",
+      "countryCode": "Spain"
     },
     "profiles": [
       {
         "network": "github",
         "username": "jdemuynke",
-        "url": "https://jdemuynke.github.io/"
+        "url": "https://github.com/jdemuynke/"
       },
       {
         "network": "linkedin",
-        "username": "",
+        "username": "Julien De Muynke",
         "url": "www.linkedin.com/in/julien-de-muynke-a7393a61"
       }
     ]
@@ -29,17 +27,18 @@
     {
       "name": "Music in bands",
       "keywords": [
-        "",
-        ""
+        "Acoustic guitar",
+        "Bass guitar"
       ]
     },
     {
-      "name": "",
+      "name": "Board games",
       "keywords": [
+        "2TomatoesGames"
       ]
     },
     {
-      "name": "",
+      "name": "Hiking",
       "keywords": [
       ]
     }
@@ -53,40 +52,36 @@
         "Python",
         "Max/MSP",
         "C++",
-        "",
-        ""
-      ]
-    },
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "MacOS",
         "Reaper",
-        "Git/GitHub",
-        "",
-        ""
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": [
+      "institution": "Aalborg Universitet, Denmark",
+      "area": "Department of Acoustics",
+      "studyType": "Master's graduation project",
+      "startDate": "2005",
+      "endDate": "2005",
+      "Project": "Design of a real time acoustic feedback canceller for a live audio installation",
+      "courses": ["Fundamental of acoustics","Electroacoustics","Digital and analog audio","Acoustic measurements"
       ]
+    },
+    {
+      "institution": "ENSEA, Cergy-Pontoise, France",
+      "area": "Real time signal processing and digital communications",
+      "studyType": "Engineering Degree",
+      "startDate": "2002",
+      "endDate": "2005"
     }
   ],
   "work": [
     {
       "company": "Fundació Eurecat",
-      "position": "Senior reserach engineer",
-      "website": "",
-      "startDate": "2015-10-02",
+      "position": "Senior research engineer",
+      "website": "https://eurecat.org/ambits-de-coneixement/tecnologies-audiovisuals/",
+      "startDate": "2015",
       "endDate": "Present",
       "summary": "Responsible of the binaural rendering of our 3D audio engine",
       "highlights": [
@@ -96,61 +91,26 @@
     {
       "company": "Parrot S.A.",
       "position": "Digital processing engineer",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "website": "https://www.parrot.com/fr/",
+      "startDate": "2006",
+      "endDate": "2014",
+      "summary": "Responsible of the audio quality of the products of the company",
       "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
+        "Design of real time algorithms aiming to enhance the audio quality of audio products of the company: headphones, home loudspeaker, stereo boombox, car radio",
+        "Conception of the acoustics of the audio products, jointly with an external audio consultant and the internal Prodcut Design team"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Da Fact @ Parrot S.A.",
+      "position": "Video Game Development Team Coordinator",
+      "website": "http://www.dafact.com/",
+      "startDate": "2012",
+      "endDate": "2012",
+      "summary": "Acoustic and audio signal processing engineer",
       "highlights": [
-        "",
-        "",
-        ""
+        "Coordination of a small team of audio developers from IRCAM and freelance video game designers",
+        "Prototype of a music video game controlled by a MIDI instrument with inertial sensors, based on Unity and Max/MSP"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
