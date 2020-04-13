@@ -10,7 +10,7 @@ labels:
   - Virtual acoustics
   - Ambisonics microphones
   - Acoustic heritage
-summary: Interaction between sound and its environment is a topic I'm passionate about.
+summary: The interaction between sound and its environment is a topic I'm passionate about.
 
 projecturl: https://sfear.com/
 ---
