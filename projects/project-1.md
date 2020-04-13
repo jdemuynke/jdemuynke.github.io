@@ -13,14 +13,22 @@ summary: For BINCI project we developed a suite of plugins for mixing in binaura
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/StAndrews_porch_reduced.jpg">
-  <img class="ui image" src="../images/IMG_20180213_094808.jpg">
-  <img class="ui image" src="../images/Pinakotheken_reduced.jpg">
-  <img class="ui image" src="../images/Miro_reduced.jpg">
+  <img class="ui image" src="../images/eurecat_logo.png">
+  <img class="ui image" src="../images/head_acoustics.png">
+  <img class="ui image" src="../images/3DSL.png">
+  <img class="ui image" src="../images/antenna_logo.png">
+  <img class="ui image" src="../images/VDP_logo.png">
 
 </div>
 
-The plugins developed in BINCI project were used for creating the binaural content of 3 cultural sites throughout Europe:
+Several companies and institutions gathered together to form a consortium under the flag of BINCI:
+- Eurecat, Centre Tecnòlogic de Catalunya, Barcelona, Spain
+- HEAD acoustics, Herzogenrath, Germany
+- 3D Sound Labs, Paris, France
+- Antenna International, London, United Kingdom
+- Voodoopop Studios, Berlin, Germany
+
+The plugins developed in BINCI project were used for creating the audio content in binaural of the audio guides of 3 cultural sites throughout Europe:
 - Die Alte Pinakotheke, Munich, Germany
 - La Fundació Miró, Barcelona, Spain
 - StAndrews Castle, StAndrews, Scotland
