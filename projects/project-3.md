@@ -9,7 +9,7 @@ labels:
   - 3D audio plugins
 summary: Sfëar is a spin-off company that brings to the market the suite of plugins developed at Eurecat. 
 
-projecturl: https://sfear.com/
+projecturl: http://qrush.space/
 ---
 <!---
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
