@@ -11,25 +11,11 @@ summary: Sfëar is a spin-off company that brings to the market the suite of plu
 
 ---
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/eurecat_logo.png">
-  <img class="ui image" src="../images/head_acoustics.png">
-  <img class="ui image" src="../images/3DSL.png">
-  <img class="ui image" src="../images/antenna_logo.png">
-  <img class="ui image" src="../images/VDP_Logo.png">
+  <img class="ui image" src="../images/sfear_stereo_panner.png">
+  <img class="ui image" src="../images/VisualizerBinaural.png">
 
 </div>
 
-Several companies and institutions gathered together under the flag of BINCI to form a multidisciplinary consortium:
-- Eurecat, Centre Tecnòlogic de Catalunya, Barcelona, Spain
-- HEAD acoustics, Herzogenrath, Germany
-- 3D Sound Labs, Paris, France
-- Antenna International, London, United Kingdom
-- Voodoopop Studios, Berlin, Germany
-
-The main outcome of BINCI was the audio content in binaural of the audio guides of 3 cultural sites throughout Europe:
-- Die Alte Pinakotheke, Munich, Germany
-- La Fundació Miró, Barcelona, Spain
-- StAndrews Castle, StAndrews, Scotland
-
-With this objective in mind, a suite of plugins allowing to create head-tracked binaural audio content has been developed in the project, validated by a carefully chosen users group, and provided to audio producers who designed the content of the audio guides. For the storytelling to reach a high level of realism and immersiveness, we gave the producers the possibility to mimic the exact acoustics of the rooms included in the visit of the targeted sites by using their unique reverberation patterns, captured beforehand in Ambisonics. On site, the visitors would be provided with a mobile device embedding an Ambisonic player and a pair of headphones equipped with a headtracker, thereby offering a dynamic and immersive binaural experience. Moreover, a software tool has been developed that allows the visitors to select the HRTFs among an HRTFs database that match best their own physiology for an even increased binaural experience. Opinion polls conducted at the end of the visit clearly showed that the immersive storytelling was well received and even left its mark to most of the visitors.<br />
+Sfëar plugins suite is a toolkit allowing for the creation of 3D audio content to be reproduced over any loudspeaker array or headphones whether they support head tracking or not. The plugins suite gathers spatial panners for mono, stereo and multichannel sources, an ambisonic panner meant for ambisonic recordings, a 3D reverberation plugin, a 3D visualizer and an ambisonic player, among other features like an embedded recorder and the support of SOFA offering different flavours to the binaural decoding. The plugins come in different formats supported by main commercial DAWs.<br />
+<br />
 More information about Sfëar plugins can be found [here](http://qrush.space/).<br /><br />
