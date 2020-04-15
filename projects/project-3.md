@@ -11,8 +11,8 @@ summary: Sfëar is a spin-off company that brings to the market the suite of plu
 
 ---
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/sfear_stereo_panner.png">
-  <img class="ui image" src="../images/VisualizerBinaural.png">
+  <img class="ui medium right floated rounded image" src="../images/sfear_stereo_panner.png">
+  <img class="ui medium right floated rounded image" src="../images/VisualizerBinaural.png">
 
 </div>
 
