@@ -4,7 +4,7 @@ type: project
 image: images/TNC/TNC.jpeg
 title: Nom @ Teatre Nacional de Catalunya
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-01
+date: 2019-03-07
 labels:
   - 3D audio plugins
   - Spatial mix
