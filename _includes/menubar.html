@@ -1,6 +1,6 @@
 <!-- Used by all builtin themes. Now we list number of teaching and projects. -->
 
-{% assign teaching_pages = site.pages | where: "type", "teaching"  | where_exp: "page", "page.draft != true" %}
+{% assign teaching_pages = site.pages | where: "type", "interests"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
 {% assign num_teaching = teaching_pages.size %}
 {% assign num_projects = project_pages.size %}
