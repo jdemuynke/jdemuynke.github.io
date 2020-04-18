@@ -23,4 +23,4 @@ Eurecat collaborated with the Teatre Nacional de Catalunya for '3Dfying' the sou
 
 </div>
 
-More information about Nom can be found [here](https://www.tnc.cat/es/nom).<br /><br />
+More information about *Nom* can be found [here](https://www.tnc.cat/es/nom).<br /><br />
