@@ -14,9 +14,9 @@ summary: The soundtrack of a contemporary dance performance called 'Nom' by Cesc
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/TNC1.jpg">
-  <img class="ui image" src="../images/TNC2.jpg">
-  <img class="ui image" src="../images/TNC3.png">
+  <img class="ui image" src="../images/TNC/TNC1.jpg">
+  <img class="ui image" src="../images/TNC/TNC2.jpg">
+  <img class="ui image" src="../images/TNC/TNC3.png">
 
 </div>
 
