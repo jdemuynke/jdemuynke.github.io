@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/logo_binci_v4_1280_1024.jpg
+image: images/binci_wider.png
 title: Binaural Tools for the Creative Industries, H2020 Project
 permalink: projects/BINCI
 # All dates must be YYYY-MM-DD format!
