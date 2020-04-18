@@ -7,6 +7,9 @@ title: Sfëar
 date: 2019-01-01
 labels:
   - 3D audio plugins
+  - Ambisonics
+  - Binaural audio
+  - SOFA
 summary: Sfëar is a spin-off company that brings to the market the suite of plugins developed at Eurecat. 
 
 ---
