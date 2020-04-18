@@ -9,7 +9,7 @@ labels:
   - 3D audio plugins
   - Spatial mix
   - Loudspeaker layout
-summary: The soundtrack of a contemporary dance performance was live mixed in 3D by thanks to Sfëar plugins and a 3D loudspeaker layout.
+summary: The soundtrack of a contemporary dance performance was live mixed in 3D with the help of Sfëar plugins and a 3D loudspeaker layout.
 
 ---
 
