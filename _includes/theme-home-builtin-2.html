@@ -1,6 +1,6 @@
 <!-- Home page design with large image to left of bio info. -->
 {% assign essay_pages = site.pages | where: "type", "essay"  | where_exp: "page", "page.draft != true" %}
-{% assign teaching_pages = site.pages | where: "type", "teaching"  | where_exp: "page", "page.draft != true" %}
+{% assign teaching_pages = site.pages | where: "type", "interests"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_teachings = teaching_pages.size %}
