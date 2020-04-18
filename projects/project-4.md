@@ -19,6 +19,7 @@ Eurecat collaborated with the Teatre Nacional de Catalunya for '3Dfying' the sou
   <img class="ui image" src="../images/TNC/TNC1.jpg">
   <img class="ui image" src="../images/TNC/TNC2.jpg">
   <img class="ui image" src="../images/TNC/TNC3.jpg">
+  <img class="ui image" src="../images/TNC/TNC4.jpg">
 
 </div>
 
