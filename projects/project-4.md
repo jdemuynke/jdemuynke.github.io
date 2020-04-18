@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/TNC/TNC.jpeg
+image: images/TNC/TNC_resized.png
 title: Nom by Cesc Gelabert @ Teatre Nacional de Catalunya
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-07
