@@ -2,8 +2,10 @@
 
 {% assign teaching_pages = site.pages | where: "type", "teaching"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
+{% assign researchtopics_pages = site.pages | where: "type", "researchtopics" | where_exp: "page", "page.draft != true" %}
 {% assign num_teaching = teaching_pages.size %}
 {% assign num_projects = project_pages.size %}
+{% assign num_researchtopics = researchtopics_pages.size %}
 
 <div class="nonprintable">
   <nav class="ui stackable menu">
@@ -12,6 +14,9 @@
     </a>
     {% if num_projects > 0 %}
     <a href="{{ site.baseurl }}/projects" class=" {% if include.active == "projects" %} active {% endif %}item">Projects ({{ num_projects }})</a>
+    {% endif %}
+    {% if num_researchtopics > 0 %}
+    <a href="{{ site.baseurl }}/researchtopics" class=" {% if include.active == "researchtopics" %} active {% endif %} item">Research ({{ num_researchtopics }})</a>
     {% endif %}
     {% if num_teaching > 0 %}
     <a href="{{ site.baseurl }}/interests" class=" {% if include.active == "teaching" %} active {% endif %} item">Interests ({{ num_teaching }})</a>
