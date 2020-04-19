@@ -4,7 +4,7 @@
     {% assign teaching_pages = site.pages | where: "type", "teaching" | sort: "date" | reverse %}
       {% for page in teaching_pages %}
         {% unless page.draft %}
-          {% include teaching-card.html page=page %}
+          {% include project-card.html page=page %}
         {% endunless %}
       {% endfor %}
   </div>
