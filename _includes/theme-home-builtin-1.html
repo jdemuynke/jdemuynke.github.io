@@ -1,6 +1,6 @@
 <!-- Home page design with small circular image bisecting card. -->
 
-{% assign essay_pages = site.pages | where: "type", "interests"  | where_exp: "page", "page.draft != true" %}
+{% assign essay_pages = site.pages | where: "type", "teaching"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
 {% assign researchtopics_pages = site.pages | where: "type", "researchtopics" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
@@ -16,7 +16,7 @@
     </div>
 
 
-    <div style="max-width: 500px; padding-top: 75px; margin-top: 0px" class="ui fluid centered card">
+    <div style="max-width: 700px; padding-top: 75px; margin-top: 0px" class="ui fluid centered card">
 
       <div class="center aligned content">
         <span class="header">{{ site.data.bio.basics.name }}</span>
