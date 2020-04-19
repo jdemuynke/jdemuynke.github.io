@@ -1,6 +1,6 @@
 <!-- Home page design with small circular image bisecting card. -->
 
-{% assign essay_pages = site.pages | where: "type", "teaching"  | where_exp: "page", "page.draft != true" %}
+{% assign essay_pages = site.pages | where: "type", "interests"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
 {% assign researchtopics_pages = site.pages | where: "type", "researchtopics" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
@@ -44,7 +44,7 @@
           <button class="ui basic button">Projects ({{ num_projects }})</button>
         </a>
         <a href="{{ site.baseurl}}/researchtopics/">
-          <button class="ui basic button">Research ({{ num_researchtopics }})</button>
+          <button class="ui basic button">Research Topics ({{ num_researchtopics }})</button>
         </a>
         <a href="{{ site.baseurl}}/interests/">
           <button class="ui basic button">Interests ({{ num_essays }})</button>
