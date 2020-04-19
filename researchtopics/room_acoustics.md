@@ -12,9 +12,9 @@ labels:
   - Teaching
 ---
 
-<img class="ui tiny right spaced image" src="../images/logo_ENTI.jpg">*A new personal challenge that deals with transmitting my knowledge to students who are starting to think about their future professional career.*
+<img class="ui tiny right spaced image" src="../images/logo_ENTI.jpg">*A new personal challenge which consists in transmitting my knowledge to students who are starting to think about their future professional carrer.*
 
-When I was proposed a few months ago to teach acoustics in ENTI-UB, I first thought of my favourite teachers when I was myself studying. I've always had the feeling that these teachers largely contributed to my present career by transmitting me their knowledge and curiosity regarding some scientific topics.
+When I was proposed a few months ago to teach acoustics in ENTI-UB, I first thought of my favourite teachers when I was myself studying. I've always had the feeling that these teachers largely contributed to my present carrer by transmitting me their knowledge and curiosity regarding some scientific topics.
 
 ## Can I really organize my knowledge and construct a course out of it?
 
@@ -22,7 +22,7 @@ Along my work experience, I have built my own grasp of the science of Acoustics 
 
 Fortunately, the Universidad de Barcelona decrees a list of notions that have to be taught to the students, besides the fact that a colleague of mine was already teaching Acoustics the year before.
 
-After a moment of reflexion I thought that I should find the correct balance between classes of pure physics, which some students may be reluctant to, and classes more fancy and real-life oriented like psychoacoustics, room acoustics and musical acoustics.
+After a moment of reflexion I thought that I should find the correct balance between classes of pure physics, which some students may be reluctant to, and classes more fancy and real-life oriented like psychoacoutics, room acoustics and musical acoustics.
 
 And that, in order to stimulate them, should come with the accompanying message: "room acoustics is pretty cool right? it is indeed, but to understand the principles underlying it you have to get your hands dirty. No pain no gain!"
 
@@ -32,7 +32,7 @@ This was my biggest fear: how to be confident enough to teach in a language that
 
 Again, I thought about some of my teachers who where not french native: this is when I learnt that 1. knowledge is cross-border, 2. like my teacher, I may work myself in a foreign country when I grow up.
 
-This being said, I trained myself pretty hard and asked my Spanish native friends for some tips before giving my first class.
+This being said, I trained myself pretty hard and asked my spanish native friends for some tips before giving my first class.
 
 ## Okay!
 

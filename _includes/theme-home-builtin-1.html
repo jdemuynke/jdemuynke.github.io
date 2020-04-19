@@ -2,8 +2,10 @@
 
 {% assign essay_pages = site.pages | where: "type", "teaching"  | where_exp: "page", "page.draft != true" %}
 {% assign project_pages = site.pages | where: "type", "project" | where_exp: "page", "page.draft != true" %}
+{% assign researchtopics_pages = site.pages | where: "type", "researchtopics" | where_exp: "page", "page.draft != true" %}
 {% assign num_essays = essay_pages.size %}
 {% assign num_projects = project_pages.size %}
+{% assign num_researchtopics = researchtopics_pages.size %}
 
 <div style="height: 100%; margin-top: -75px" class="ui middle aligned grid ">
 
@@ -40,6 +42,9 @@
       <div class="center aligned content">
         <a href="{{ site.baseurl}}/projects/">
           <button class="ui basic button">Projects ({{ num_projects }})</button>
+        </a>
+        <a href="{{ site.baseurl}}/researchtopics/">
+          <button class="ui basic button">Research Topics ({{ num_researchtopics }})</button>
         </a>
         <a href="{{ site.baseurl}}/interests/">
           <button class="ui basic button">Interests ({{ num_essays }})</button>
