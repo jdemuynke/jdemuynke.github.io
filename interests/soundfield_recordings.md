@@ -11,7 +11,7 @@ labels:
 summary: I use to record audio events, performances, landscapes in
 ---
 
-<img class="ui image" src="../images/logo_ENTI.jpg">
+<img class="ui image" src="../images/gamellan.jpg">
 
 ![Hal 9000: I'm Sorry Dave](../sounds/gamellan_binaural.mp3)
 
