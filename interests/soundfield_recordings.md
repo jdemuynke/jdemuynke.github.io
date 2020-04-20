@@ -30,3 +30,30 @@ A collection of ambisonic and binaural recordings.
     Your browser does not support the <code>audio</code> element.
   </audio>
 </figure>
+
+<img class="ui image" src="../images/hancock.jpg">
+
+<figure>
+  <figcaption>Herbie Hancock live @ Palau de la Musica Catalana, Barcelona:</figcaption>
+  <audio controls src="/sounds/sofree.mp3">
+    Your browser does not support the <code>audio</code> element.
+  </audio>
+</figure>
+
+<img class="ui image" src="../images/bona.jpg">
+
+<figure>
+  <figcaption>Richard Bona & Alfredo Rodríguez @ Barts, Barcelona:</figcaption>
+  <audio controls src="/sounds/sofree.mp3">
+    Your browser does not support the <code>audio</code> element.
+  </audio>
+</figure>
+
+<img class="ui image" src="../images/orpheu.png">
+
+<figure>
+  <figcaption>Christmas concert, El Orfeó Català @ Plaça del Rei, Barcelona:</figcaption>
+  <audio controls src="/sounds/sofree.mp3">
+    Your browser does not support the <code>audio</code> element.
+  </audio>
+</figure>
