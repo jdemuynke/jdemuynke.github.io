@@ -15,27 +15,17 @@ summary: Binaural hearing mainly rests on the pair of acoustic sensors located o
 ---
 
 
-<div class="two wide column">
-<img class="ui left aligned medium image" src="../images/listening_test.jpeg">
-<img class="ui right aligned medium image" src="../images/binaural_cues.png">
+<div class="ui medium images">
+<img class="ui image" src="../images/listening_test.jpeg">
+<img class="ui image" src="../images/binaural_cues.png">
 </div>
 
 
-Binaural hearing allows every human being to localise sound sources in its surrounding space, left and right, front and back, up and down.
-
-<div class="two wide column">
-<img class="ui left aligned medium image" src="../images/standrews2_500px.jpg">
-<img class="ui right aligned medium image" src="../images/standrews3_500px.jpg">
-</div>
+Binaural hearing allows every human being to localise sound sources in its surroundings, from left to right, front and back, up and down. This ability is due to some binaural cues that dictate an incoming direction when processed by our brain. The two main binaural cues are the Interaural Time Difference (ITD) and the Interaural Level Difference (ILD). The ITD refers to the timing difference for a sound to reach our two ears and is mainly effective at low frequencies, whereas the ILD refers to the level difference of a sound when it reaches our two ears and is mainly effective at high frequencies. For example, a sound that reaches the right ear before the left ear was probably emitted by a source located on the right of the subject. If the frequency is high enough, the signal reaching the right ear exhibits a higher level than the signal reaching the left ear due to the masking effect of the head and the distance-dependent attenuation.
 
 The reverberation pattern of a room is retrieved from its impulse response, which can be measured by different well-known techniques. Most of these involve using a loudspeaker for playing back a specific stimulus signal and a microphone for capturing the series of subsequent echoes. The microphone can be of various type among single capsule microphones with a variety of directivity patterns, ambisonic microphones of different orders, or Head And Torso Simulators (HATS). Depending on the type of used microphone, the impulse response is called either Room Impulse Response (RIR), Ambsionic Room Impulse Response (ARIR), Binaural Room Impulse Response (BRIR) or Head Related Room Impulse Response (HRIR) in the case of anechoic conditions.<br />
 
-<div class="two wide column">
-<img class="ui centered medium image" src="../images/pinakotheke_500px.png">
-<img class="ui centered medium image" src="../images/eurecat_500px.jpg">
-<img class="ui centered medium image" src="../images/deluxe2_500px.jpg">
-<img class="ui centered medium image" src="../images/standrews4_500px.jpg">
-</div>
+
 
 Carrying out room impulse response measurements has several fields of application: it may be used for analysing the acoustic characteristics of a room like the reverberation time and the room modes, or it can be used for simulating the acoustics of a desired room in an auralisation process.<br />
 
