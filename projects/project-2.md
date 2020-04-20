@@ -11,7 +11,7 @@ labels:
   - 3D recording and mixing studio
 summary: We designed, built and calibrated a 26 loudspeakers system which, together with our plugins suite, make Métrica Studios a pioneer studio in producing 3D and binaural sound.
 
-projecturl: https://www.metricasound.com/
+projecturl: https://www.metricasound.com/en/
 ---
 
 <img class="ui medium right floated rounded image" src="../images/metrica.jpg">
