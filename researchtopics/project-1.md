@@ -1,17 +1,17 @@
 ---
 layout: project
 type: researchtopics
-image: images/binci_resized.png
+image: images/Miro_300px.jpg
 title: Room Acoustics
 <!-- permalink: projects/BINCI -->
 # All dates must be YYYY-MM-DD format!
 date: 2017-01-01
 labels:
-  - Binaural audio
-  - Immersive storytelling
-  - Virtual acoustics
+  - Reverberation
+  - Acoustics measurements
+  - HRTFs
   - Ambisonics Room Impulse Response
-summary: For BINCI project we developed a suite of plugins for mixing in binaural the audio guides content of some museums and cultural sites, plus an ambisonics player supporting head tracking for an enhanced visitor experience.
+summary: The interaction between a sound source and the room creates a series of echoes depending on its geometry and materials, referred to as *room reverberation*.
 ---
 
 <div class="ui small rounded images">
