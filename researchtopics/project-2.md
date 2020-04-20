@@ -29,13 +29,13 @@ However, ILD and ITD are not sufficient to distinguish between a source coming f
 
 All these spatial cues can be captured by measuring the spatial filters between every position of space and the two ears, called *Head Related Impulse Responses* (HRIRs) when done in anechoic conditions and *Binaural Room Impulse Responses* (BRIRs) when done in a reverberant room. Although several public databases of HRIRs are available for download, either measured with a HATS or with a binaural microphone worn by individuals, at Eurecat we are used to carry out our own HRIRs and BRIRs measurements. With this material at hand we compute binaural decoders following our own method inspired by the most recently published techniques. The binaural decoders are meant for the binaural rendering of the ambisonic content created with Sfëar plugins, be it static (head-locked) or dynamic (head-tracked). Moreover, we use to store these measurement data into SOFA files of type SimpleFreeFieldHRIR, which makes convenient to change the flavour of the binaural rendering.<br />
 
-Among
-
-
-<div class="ui medium images">
 <img class="ui image" src="../images/itd_detected.png">
+
+A key aspect of these techniques is the ability to detect the ITD of each pair of HRIRs or BRIRs. Contrary to HRIRs, some BRIRs may not exhibit their main peak when the direct sound reaches the ear, but rather when does a strong reflexion after bouncing off a reflective surface of the room. This is often the case in the contra lateral HRIR (opposite ear) with lateral sources. Our technique shows quite good performance in these borderline cases, as shown in the above polar plots.
+
+
+
 <img class="ui image" src="../images/itd_mesh.png">
-</div>
 
 
 
