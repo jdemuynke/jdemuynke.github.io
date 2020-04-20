@@ -11,7 +11,7 @@ labels:
 summary: I use to record audio events, performances, landscapes in
 ---
 
-<img class="ui image" src="../images/gamellan.jpg">
+<img class="ui image" src="/images/gamellan.jpg">
 
 <figure>
   <figcaption>Gamellan performance, open air, 3rd order Ambisonics:</figcaption>
