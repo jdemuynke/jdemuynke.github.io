@@ -14,7 +14,7 @@ summary: I use to record audio events, performances, landscapes in
 <img class="ui image" src="../images/gamellan.jpg">
 
 <figure>
-  <figcaption>Listen to the T-Rex:</figcaption>
+  <figcaption>Gamellan performance, open air, 3rd order Ambisonics:</figcaption>
   <audio controls src="/sounds/gamellan_binaural.mp3">
     Your browser does not support the <code>audio</code> element.
   </audio>
