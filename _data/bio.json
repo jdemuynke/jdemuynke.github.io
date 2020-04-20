@@ -4,7 +4,6 @@
     "label": "Audio Scientist & Music Enthusiast",
     "picture": "https://jdemuynke.github.io/images/icon_reduced.jpg",
     "email": "julien.demuynke@gmail.com",
-    "website": "https://jdemuynke.github.io",
     "summary": "I am a signal processing researcher in the field of binaural and 3D audio, and passionate about music and audio technologies in general.",
     "location": {
       "city": "Barcelona",
@@ -92,8 +91,8 @@
       "endDate": "Present",
       "summary": "Responsible of the binaural rendering of our 3D audio engine",
       "highlights": [
-        "Design, develop, test and document algorithms for processing the 3D audio content and render it over headphones and loudspeaker installations",
-        "Carry out acoustic measurements of type BRIRs, HRIRs, ambisonic IRs"
+        "Design of algorithms for processing the 3D audio content and rendering it over headphones and loudspeaker installations",
+        "Acoustic measurements of type BRIRs, HRIRs, ambisonic IRs"
       ]
     },
     {
@@ -117,7 +116,7 @@
       "summary": "Acoustic and audio signal processing engineer",
       "highlights": [
         "Coordination of a small team of audio developers from IRCAM and freelance video game designers",
-        "Prototype of a music video game controlled by a MIDI instrument with inertial sensors, based on Unity and Max/MSP"
+        "Prototyping of a music video game controlled by a MIDI instrument with inertial sensors, based on Unity and Max/MSP"
       ]
     }
   ]
