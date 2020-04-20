@@ -15,7 +15,7 @@ summary: The interaction between a sound source and the room creates a series of
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/eurecat_logo.png">
+  <img class="ui image" src="../images/deluxe_500px.jpg">
   <img class="ui image" src="../images/head_acoustics.png">
   <img class="ui image" src="../images/3DSL.png">
   <img class="ui image" src="../images/antenna_logo.png">
@@ -23,12 +23,9 @@ summary: The interaction between a sound source and the room creates a series of
 
 </div>
 
-Several companies and institutions gathered together under the flag of BINCI to form a multidisciplinary consortium:
-- Eurecat, Centre Tecnòlogic de Catalunya, Barcelona, Spain
-- HEAD acoustics, Herzogenrath, Germany
-- 3D Sound Labs, Paris, France
-- Antenna International, London, United Kingdom
-- Voodoopop Studios, Berlin, Germany
+The reverberation of a room is formed of a series of reflexions of the original impulsive sound onto the room boundaries, each having its own time of arrival, direction of arrival, level and spectral content. Partially depending on the source position and listening position, the reverberation pattern of a room is unique and thereby can be seen as its *acoustic signature*.<br />
+The reverberation pattern can be retrieved from the impulse response of the room, that can be measured by different well-known techniques. Most of them involve using a loudspeaker for playing back a specific stimulus signal and a microphone for capturing the series of subsequent echoes. The microphone can be of various type among single capsule microphones with a variety of directivity patterns, Ambisonics microphones of different orders, and Head And Torso Simulators (HATS).
+
 
 The main outcome of BINCI was the audio content in binaural of the audio guides of 3 cultural sites throughout Europe:
 - Die Alte Pinakotheke, Munich, Germany
