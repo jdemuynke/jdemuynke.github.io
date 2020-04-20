@@ -13,7 +13,7 @@ summary: I use to record audio events, performances, landscapes in
 
 <img class="ui image" src="../images/logo_ENTI.jpg">
 
-![Hal 9000: I'm Sorry Dave](/sounds/gamellan_binaural.mp3)
+![Hal 9000: I'm Sorry Dave](../sounds/gamellan_binaural.mp3)
 
 When I was proposed a few months ago to teach acoustics in [ENTI-UB](https://enti.cat/en/course/degree-music-sound-production/) (School of New Interactive Technologies), I first thought of my favourite teachers when I was myself studying. I've always had the feeling that these teachers largely contributed to my present career by transmitting me their knowledge and curiosity regarding some scientific topics.
 
