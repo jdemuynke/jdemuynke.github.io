@@ -16,17 +16,8 @@ A collection of ambisonic and binaural recordings. Put your headphones on!!!
 <img class="ui image" src="../images/gamellan.jpg">
 
 <figure>
-  <figcaption>Gamellan performance, open air, 3rd order Ambisonics:</figcaption>
+  <figcaption>Gamellan performance @ yard of L'Auditori de Barcelona - 3rd order Ambisonics microphone:</figcaption>
   <audio controls src="/sounds/gamellan.mp3">
-    Your browser does not support the <code>audio</code> element.
-  </audio>
-</figure>
-
-<img class="ui image" src="../images/hancock.jpg">
-
-<figure>
-  <figcaption>Herbie Hancock live @ Palau de la Musica Catalana, Barcelona:</figcaption>
-  <audio controls src="/sounds/herbie.mp3">
     Your browser does not support the <code>audio</code> element.
   </audio>
 </figure>
@@ -34,7 +25,7 @@ A collection of ambisonic and binaural recordings. Put your headphones on!!!
 <img class="ui image" src="../images/bona.jpg">
 
 <figure>
-  <figcaption>Richard Bona & Alfredo Rodríguez @ Barts, Barcelona:</figcaption>
+  <figcaption>Richard Bona & Alfredo Rodríguez @ Barts, Barcelona - Binaural microphone:</figcaption>
   <audio controls src="/sounds/bona.mp3">
     Your browser does not support the <code>audio</code> element.
   </audio>
@@ -43,17 +34,26 @@ A collection of ambisonic and binaural recordings. Put your headphones on!!!
 <img class="ui image" src="../images/orpheu.png">
 
 <figure>
-  <figcaption>Christmas concert, El Orfeó Català @ Plaça del Rei, Barcelona:</figcaption>
+  <figcaption>Christmas concert, El Orfeó Català @ Plaça del Rei, Barcelona - Binaural microphone:</figcaption>
   <audio controls src="/sounds/orfeo.mp3">
     Your browser does not support the <code>audio</code> element.
   </audio>
 </figure>
 
 
+<img class="ui image" src="../images/hancock.jpg">
+
+<figure>
+  <figcaption>Herbie Hancock @ Palau de la Musica Catalana, Barcelona - Binaural microphone:</figcaption>
+  <audio controls src="/sounds/herbie.mp3">
+    Your browser does not support the <code>audio</code> element.
+  </audio>
+</figure>
+
 <img class="ui image" src="../images/sofree.jpg">
 
 <figure>
-  <figcaption>Sofree live @ Sinestesia, Barcelona:</figcaption>
+  <figcaption>Sofree @ Sinestesia, Barcelona  - Mix 1rst order Ambisonics microphone + ambience + recording desk output:</figcaption>
   <audio controls src="/sounds/sofree.mp3">
     Your browser does not support the <code>audio</code> element.
   </audio>
