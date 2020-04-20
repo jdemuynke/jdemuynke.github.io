@@ -37,4 +37,9 @@ A key aspect of these techniques is the ability to detect the ITD of each pair o
 
 Another important aspect of these techniques is the ability to model the ITD as a function of the source position (azimuth, elevation and distance to some extent) and the diameter of the head. At Eurecat we developed a spherical head model showing quite accurate performance as illustrated by the mesh in the above plot (ITD in samples@48kHz, as a function of azimuth and elevation angles, at a distance of 2 meters).<br />
 
-A last word regarding far field and near field. In the far field, i.e. beyond about 1 meter, the ILD and ITD are independent of the source distance and depend only on the azimuth and elevation angles. On the contrary, the binaural cues of a source in the near field are distance dependent, in particular the ILD which increases dramatically when the source gets closer to the ear. The specific behaviour of the binaural cues in the near field is the subject of research aiming at modelling near field HRIRs for later reuse in an auralisation process in order to simulate very close sound sources.
+<div class="ui medium images">
+<img class="ui image" src="../images/extra_ild_linear_upto_1.0kHz.png">
+<img class="ui image" src="../images/extra_ild_linear_upto_1.0kHz_mesh.png">
+</div>
+
+A last word regarding the near field. In the far field, i.e. beyond about 1 meter, the ILD and ITD are independent of the source distance and depend only on the azimuth and elevation angles. On the contrary, the binaural cues of a source in the near field are distance dependent, in particular the ILD increases dramatically when the source gets closer to the ear. The specific behaviour of the binaural cues in the near field is the subject of research at Eurecat, with the purpose of modelling near field HRIRs for later reuse in an auralisation process in order to simulate very close sound sources.
