@@ -14,10 +14,8 @@ labels:
 summary: The interaction between a sound source and the room creates a series of echoes depending on its geometry and materials, referred to as room reverberation.
 ---
 
-<div class="ui medium images">
+
 <img class="ui image" src="../images/standrews_500px.jpg">
-<img class="ui image" src="../images/deluxe_500px.jpg">
-</div>
 
 
 The reverberation of a room is formed of a series of reflexions of the original impulsive sound onto the room boundaries, each having its own time of arrival, direction of arrival, level and spectral content. Partially depending on the source position and listening position, the reverberation pattern of a room is unique and thereby can be seen as its *acoustic signature*.<br />
@@ -27,9 +25,10 @@ The reverberation of a room is formed of a series of reflexions of the original 
 <img class="ui image" src="../images/standrews3_500px.jpg">
 </div>
 
-The reverberation pattern can be retrieved from the impulse response of the room, that can be measured by different well-known techniques. Most of them involve using a loudspeaker for playing back a specific stimulus signal and a microphone for capturing the series of subsequent echoes. The microphone can be of various type among single capsule microphones with a variety of directivity patterns, Ambisonics microphones of different orders, and Head And Torso Simulators (HATS). Depending on the type of used microphone, the impulse response is called either Room Impulse Response (RIR), Ambsionics Room Impulse Response (ARIR), Binaural Room Impulse Response (BRIR) or Head Related Room Impulse Response (HRIR) in the case of anechoic conditions.<br />
+The reverberation pattern of a room is retrieved from its impulse response, which can be measured by different well-known techniques. Most of them involve using a loudspeaker for playing back a specific stimulus signal and a microphone for capturing the series of subsequent echoes. The microphone can be of various type among single capsule microphones with a variety of directivity patterns, Ambisonics microphones of different orders, and Head And Torso Simulators (HATS). Depending on the type of used microphone, the impulse response is called either Room Impulse Response (RIR), Ambsionics Room Impulse Response (ARIR), Binaural Room Impulse Response (BRIR) or Head Related Room Impulse Response (HRIR) in the case of anechoic conditions.<br />
 
 Measuring the impulse response measurement of a room has several fields of application: it may be used for analysing the acoustic characteristics of a room like the reverberation time and the room modes, or it can be used for simulating the acoustics of a desired room in an auralisation process.<br />
+
 The impulse response measurement campaigns performed in the demonstration sites of BINCI project aimed to auralise the content of the audio guides intended for visitors. By doing so, the narrator's voice was processed with the acoustic signature of the rooms to be visited during the tour, thereby achieving of high level of realism of the audio scene, what created the illusion of having a virtual guide standing next to oneself. Moreover, the room impulse responses were measured with a 1rst order Ambisonics microphone from several listening positions and with several source positions, leading to an authentic cartography of the room reverberation in the spherical harmonics domain, by then allowing a dynamic rendering of the binaural audio content supporting head rotations and with a variety of possible narrator's positions within the rooms.
 
 
