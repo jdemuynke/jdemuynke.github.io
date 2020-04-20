@@ -30,6 +30,7 @@ The reverberation pattern of a room is retrieved from its impulse response, whic
 <div class="ui medium images">
 <img class="ui image" src="../images/pinakotheke_500px.png">
 <img class="ui image" src="../images/eurecat_500px.jpg">
+<img class="ui image" src="../images/deluxe2_500px.jpg">
 </div>
 
 Measuring the impulse response measurement of a room has several fields of application: it may be used for analysing the acoustic characteristics of a room like the reverberation time and the room modes, or it can be used for simulating the acoustics of a desired room in an auralisation process.<br />
