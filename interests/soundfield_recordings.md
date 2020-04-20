@@ -1,14 +1,14 @@
 ---
 layout: teaching
 type: teaching
-image: images/logo_ENTI.jpg
+image: images/soundfield_recording.JPG
 title: Soundfield recordings
 labels:
   - Soundfield recorder
   - Binaural microphone
   - Ambisonic microphone
 
-summary: I use to record audio events, performances, landscapes in
+summary: I use to record audio performances and audio landscapes in Ambisonics and in binaural.
 ---
 
 <img class="ui image" src="../images/gamellan.jpg">

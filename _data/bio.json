@@ -87,18 +87,19 @@
     {
       "company": "Fundació Eurecat",
       "position": "Senior research engineer",
-      "website": "https://eurecat.org/ambits-de-coneixement/tecnologies-audiovisuals/",
+      "website": "https://eurecat.org/en/field-of-knowledge/audiovisual-technologies/",
       "startDate": "2015",
       "endDate": "Present",
       "summary": "Responsible of the binaural rendering of our 3D audio engine",
       "highlights": [
-        "Design, develop, test and document algorithms for processing the 3D audio content and render it over headphones and loudspeaker installations"
+        "Design, develop, test and document algorithms for processing the 3D audio content and render it over headphones and loudspeaker installations",
+        "Carry out acoustic measurements of type BRIRs, HRIRs, ambisonic IRs"
       ]
     },
     {
       "company": "Parrot S.A.",
       "position": "Digital processing engineer",
-      "website": "https://www.parrot.com/fr/",
+      "website": "https://www.parrot.com/fr/en#",
       "startDate": "2006",
       "endDate": "2014",
       "summary": "Responsible of the audio quality of the products of the company",
