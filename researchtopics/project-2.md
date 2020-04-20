@@ -15,10 +15,13 @@ summary: Binaural hearing mainly rests on the pair of acoustic sensors located o
 ---
 
 
-<img class="ui image" src="../images/standrews_500px.jpg">
+<div class="two wide column">
+<img class="ui left aligned medium image" src="../images/listening_test.jpeg">
+<img class="ui right aligned medium image" src="../images/binaural_cues.png">
+</div>
 
 
-The reverberation of a room is composed of a series of reflexions of the original impulsive sound onto the room boundaries, each having its own time of arrival, direction of arrival, level and spectral content. Partially depending on the source position and listening position, the reverberation pattern of a room is unique and thereby can be seen as its *acoustic signature*.<br />
+Binaural hearing allows every human being to localise sound sources in its surrounding space, left and right, front and back, up and down.
 
 <div class="two wide column">
 <img class="ui left aligned medium image" src="../images/standrews2_500px.jpg">
