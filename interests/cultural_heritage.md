@@ -13,6 +13,11 @@ summary: Every trip I do is an opportunity to visit historical sites and to get 
 A collection of pictures of emblematic cultural heritage sites I had the chance to visit.<br />
 
 
-<div class="one wide column">
-  <img class="ui centered medium image" src="/images/alhambra.jpg">
-</div>
+<img class="ui image" src="/images/alhambra.jpg">
+<br />
+<img class="ui image" src="/images/alhambra2.jpg">
+<br />
+<img class="ui image" src="/images/alhambra3.jpg">
+<br />
+<img class="ui image" src="/images/alhambra4.jpg">
+<br />
