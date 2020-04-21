@@ -68,7 +68,9 @@ Chichen Itza, Mayan culture, Yucatan, Mexico:
 <br />
 
 Tikal, Mayan culture, Petén, Guatemala:
-<img class="ui image" src="/images/tikal.jpg">
+<div class="one wide column">
+  <img class="ui centered medium image" src="/images/tikal.jpg">
+</div>
 <br />
 <img class="ui image" src="/images/tikal2.jpg">
 <br />
