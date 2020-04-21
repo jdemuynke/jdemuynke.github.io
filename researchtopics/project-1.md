@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: researchtopic
 type: researchtopics
 image: images/Miro_300px.jpg
 title: Room Acoustics
