@@ -46,7 +46,9 @@ Palenque, Mayan culture, Chiapas, Mexico:
 <br />
 
 Uxmal, Mayan culture, Yucatan, Mexico:
-<img class="ui image" src="/images/uxmal.jpg">
+<div class="one wide column">
+  <img class="ui centered medium image" src="/images/uxmal.jpg">
+</div>
 <br />
 <img class="ui image" src="/images/uxmal2.jpg">
 <br />
@@ -60,7 +62,9 @@ Kabah, Mayan culture, Yucatan, Mexico:
 Chichen Itza, Mayan culture, Yucatan, Mexico:
 <img class="ui image" src="/images/chichen.jpg">
 <br />
-<img class="ui image" src="/images/chichen2.jpg">
+<div class="one wide column">
+  <img class="ui centered medium image" src="/images/chichen2.jpg">
+</div>
 <br />
 
 Tikal, Mayan culture, Petén, Guatemala:
@@ -69,7 +73,7 @@ Tikal, Mayan culture, Petén, Guatemala:
 <img class="ui image" src="/images/tikal2.jpg">
 <br />
 
-Chan Chan, Chimu cuture, Peru:
+Chan Chan, Chimu culture, Peru:
 <img class="ui image" src="/images/chimu.jpg">
 <br />
 Huaca de la luna, Moche culture, Peru:
