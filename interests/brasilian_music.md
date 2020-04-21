@@ -11,11 +11,6 @@ labels:
 summary: I literally fell in love with the beauty of Brazilian music.
 ---
 
-<div class="ui medium images">
-<img class="ui image" src="/images/raskal.jpg">
-<img class="ui image" src="/images/fai.jpg">
-</div>
-
 <img class="ui medium right floated rounded image" src="/images/62funk.jpg">
 
 After many years of piano and bass guitar practice in music bands, particularly in a soul and funk versions band, I discovered the world of Brazilian music a few years back, which led me to play bossa nova pieces on the guitar and a bit of cavaquinho too. I opened a tiny door that had remained closed until then and I discovered a whole musical universe full of saudade...<br />
