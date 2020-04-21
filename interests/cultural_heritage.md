@@ -39,25 +39,31 @@ Ancient city of Pompeii, Campania, Italy::
 <img class="ui image" src="/images/italy3.jpg">
 <br />
 
-Mayan city of Palenque, Chiapas, Mexico:
+Palenque, Mayan culture, Chiapas, Mexico:
 <img class="ui image" src="/images/palenque.jpg">
 <br />
 <img class="ui image" src="/images/palenque2.jpg">
 <br />
 
-Mayan city of Uxmal, Yucatan, Mexico:
+Uxmal, Mayan culture, Yucatan, Mexico:
 <img class="ui image" src="/images/uxmal.jpg">
 <br />
 <img class="ui image" src="/images/uxmal2.jpg">
 <br />
 
-Mayan city of Chichen Itza, Yucatan, Mexico:
+Kabah, Mayan culture, Yucatan, Mexico:
+<img class="ui image" src="/images/kabah.jpg">
+<br />
+<img class="ui image" src="/images/kabah2.jpg">
+<br />
+
+Chichen Itza, Mayan culture, Yucatan, Mexico:
 <img class="ui image" src="/images/chichen.jpg">
 <br />
 <img class="ui image" src="/images/chichen2.jpg">
 <br />
 
-Mayan city of Tikal, Yucatan, Guatemala:
+Tikal, Mayan culture, Petén, Guatemala:
 <img class="ui image" src="/images/tikal.jpg">
 <br />
 <img class="ui image" src="/images/tikal2.jpg">
@@ -72,4 +78,18 @@ Huaca de la luna, Moche culture, Peru:
 
 Kuelap, Chachapoyas culture, Peru:
 <img class="ui image" src="/images/kuelap.jpg">
+<br />
+
+Machu Picchu, Inca culture, Peru:
+<img class="ui image" src="/images/machu_picchu.jpg">
+<br />
+
+Ollantaytambo, Inca culture, Peru:
+<img class="ui image" src="/images/ollantaytambo.jpg">
+<br />
+
+Cuzco, Peru:
+<img class="ui image" src="/images/cuzco.jpg">
+<br />
+<img class="ui image" src="/images/cuzco2.jpg">
 <br />
