@@ -28,45 +28,13 @@ Brazilian music has a immense variety of styles and influences, among which one 
 <img class="ui image" src="/images/pixinguinha.jpg">
 </div>
 
-<figure>
-  <figcaption>Gamellan performance, open air, 3rd order Ambisonics:</figcaption>
-  <audio controls src="/sounds/gamellan.mp3">
-    Your browser does not support the <code>audio</code> element.
-  </audio>
-</figure>
+Samba is usually interpreted by orchestras composed of musicians playing various traditional rhythmic and melodic instruments, who spontaneously gather around tables, in a formation called roda de samba. Teresa Cristina is a singer who popularises the style samba with songs like ["Portela na avenida"](https://www.youtube.com/watch?v=ZmumSvvsAUM) and ["Nem ouro, nem prata"](https://www.youtube.com/watch?v=IXddWFQyIaM). She also acts in the musical documentary film Brasileirinho about choro music and interprets ["Um calo de estimação"](https://www.youtube.com/watch?v=hDlbRo9HECk). Samba and choro are remarkable by the large variety of instruments: guitar, cavaquinho, mandoline, flute, saxophone, trombone, pandeiro, cuíca, tamborim, zabumba and many more.
 
-<img class="ui image" src="../images/sofree.jpg">
+<div class="ui medium images">
+<img class="ui image" src="/images/roda.jpg">
+<img class="ui image" src="/images/teresa.jpg">
+</div>
 
-<figure>
-  <figcaption>Sofree live @ Sinestesia, Barcelona:</figcaption>
-  <audio controls src="/sounds/sofree.mp3">
-    Your browser does not support the <code>audio</code> element.
-  </audio>
-</figure>
+Among many Brazilian musicians who are seen in the documentary Brasileirinho, it's worth mentioning Yamandu Costa, considered to be a genius of the 7 strings Brazilian guitar, as seen in his interpretation of a columbian traditional piece called ["Porro"](https://www.youtube.com/watch?v=EXeHPUMpM2U). I was lucky enough to attend a concert of Yamandu Costa in Le New Morning in Paris in 2017, which completely blew my mind.
 
-<img class="ui image" src="../images/hancock.jpg">
-
-<figure>
-  <figcaption>Herbie Hancock live @ Palau de la Musica Catalana, Barcelona:</figcaption>
-  <audio controls src="/sounds/herbie.mp3">
-    Your browser does not support the <code>audio</code> element.
-  </audio>
-</figure>
-
-<img class="ui image" src="../images/bona.jpg">
-
-<figure>
-  <figcaption>Richard Bona & Alfredo Rodríguez @ Barts, Barcelona:</figcaption>
-  <audio controls src="/sounds/sofree.mp3">
-    Your browser does not support the <code>audio</code> element.
-  </audio>
-</figure>
-
-<img class="ui image" src="../images/orpheu.png">
-
-<figure>
-  <figcaption>Christmas concert, El Orfeó Català @ Plaça del Rei, Barcelona:</figcaption>
-  <audio controls src="/sounds/orfeo.mp3">
-    Your browser does not support the <code>audio</code> element.
-  </audio>
-</figure>
+<img class="ui image" src="/images/yamandu.jpg">
