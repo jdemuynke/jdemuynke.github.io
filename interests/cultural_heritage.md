@@ -12,6 +12,7 @@ summary: Every trip I do is an opportunity to visit historical sites and to get 
 
 A collection of pictures of emblematic cultural heritage sites I had the chance to visit.<br />
 
+Alhambra, Granada, Andalusia, Spain:<br />
 
 <img class="ui image" src="/images/alhambra.jpg">
 <br />
@@ -20,4 +21,11 @@ A collection of pictures of emblematic cultural heritage sites I had the chance 
 <img class="ui image" src="/images/alhambra3.jpg">
 <br />
 <img class="ui image" src="/images/alhambra4.jpg">
+<br />
+
+Zaragoza, Aragon, Spain:<br />
+
+<img class="ui image" src="/images/zaragossa.jpg">
+<br />
+<img class="ui image" src="/images/zaragossa2.jpg">
 <br />
