@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: researchtopic
 type: researchtopics
 image: images/owl.jpg
 title: Binaural Hearing
