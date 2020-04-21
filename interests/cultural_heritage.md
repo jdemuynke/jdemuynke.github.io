@@ -16,11 +16,7 @@ Alhambra, Granada, Andalusia, Spain:<br />
 
 <img class="ui image" src="/images/alhambra.jpg">
 <br />
-<img class="ui image" src="/images/alhambra2.jpg">
-<br />
 <img class="ui image" src="/images/alhambra3.jpg">
-<br />
-<img class="ui image" src="/images/alhambra4.jpg">
 <br />
 
 Zaragoza, Aragon, Spain:<br />
@@ -42,3 +38,6 @@ Florence, Tuscany, Italy::
 Ancient city of Pompeii, Campania, Italy::
 <img class="ui image" src="/images/italy3.jpg">
 <br />
+
+Mayan city of Palenque, Yucatan, Mexico:
+<img class="ui image" src="/images/palenque.jpg">
