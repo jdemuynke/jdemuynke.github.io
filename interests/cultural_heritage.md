@@ -39,8 +39,20 @@ Ancient city of Pompeii, Campania, Italy::
 <img class="ui image" src="/images/italy3.jpg">
 <br />
 
-Mayan city of Palenque, Yucatan, Mexico:
+Mayan city of Palenque, Chiapas, Mexico:
 <img class="ui image" src="/images/palenque.jpg">
 <br />
 <img class="ui image" src="/images/palenque2.jpg">
+<br />
+
+Mayan city of Uxmal, Yucatan, Mexico:
+<img class="ui image" src="/images/uxmal.jpg">
+<br />
+<img class="ui image" src="/images/uxmal2.jpg">
+<br />
+
+Mayan city of Chichen Itza, Yucatan, Mexico:
+<img class="ui image" src="/images/chichen.jpg">
+<br />
+<img class="ui image" src="/images/chichen2.jpg">
 <br />
