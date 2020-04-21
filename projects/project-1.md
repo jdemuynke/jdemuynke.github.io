@@ -35,7 +35,7 @@ The main outcome of BINCI was the audio content in binaural of the audio guides 
 - Die Alte Pinakothek, Munich, Germany
 - StAndrews Castle, StAndrews, Scotland
 
-<div class="ui medium images">
+<div class="ui small images">
 <img class="ui image" src="/images/fundacio_miro.jpg">
 <img class="ui image" src="/images/Alte-pinakothek.jpg">
 <img class="ui image" src="/images/St-Andrews.jpg">
