@@ -13,6 +13,15 @@ summary: I use to record audio performances and audio landscapes in Ambisonics a
 
 A collection of ambisonic and binaural recordings. Put your headphones on!!!
 
+<img class="ui image" src="../images/orpheu.png">
+
+<figure>
+  <figcaption>Christmas concert, El Orfeó Català @ Plaça del Rei, Barcelona:</figcaption>
+  <audio controls src="/sounds/orfeo.mp3">
+    Your browser does not support the <code>audio</code> element.
+  </audio>
+</figure>
+
 <img class="ui image" src="../images/gamellan.jpg">
 
 <figure>
@@ -30,16 +39,6 @@ A collection of ambisonic and binaural recordings. Put your headphones on!!!
     Your browser does not support the <code>audio</code> element.
   </audio>
 </figure>
-
-<img class="ui image" src="../images/orpheu.png">
-
-<figure>
-  <figcaption>Christmas concert, El Orfeó Català @ Plaça del Rei, Barcelona:</figcaption>
-  <audio controls src="/sounds/orfeo.mp3">
-    Your browser does not support the <code>audio</code> element.
-  </audio>
-</figure>
-
 
 <img class="ui image" src="../images/hancock.jpg">
 
