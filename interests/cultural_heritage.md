@@ -30,16 +30,15 @@ Zaragoza, Aragon, Spain:<br />
 <img class="ui image" src="/images/zaragossa2.jpg">
 <br />
 
-Italy:<br />
-Etruscan necropolis of Tarchuna, Lazio:
+Etruscan necropolis of Tarchuna, Lazio, Italy:
 <img class="ui image" src="/images/italy.jpg">
 <br />
-Etruscan city of Cerveteri, Lazio:
+Etruscan city of Cerveteri, Lazio, Italy:
 <img class="ui image" src="/images/italy4.jpg">
 <br />
-Florence, Tuscany:
+Florence, Tuscany, Italy::
 <img class="ui image" src="/images/italy2.jpg">
 <br />
-Ancient city of Pompeii, Campania:
+Ancient city of Pompeii, Campania, Italy::
 <img class="ui image" src="/images/italy3.jpg">
 <br />
