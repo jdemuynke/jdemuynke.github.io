@@ -41,3 +41,6 @@ Ancient city of Pompeii, Campania, Italy::
 
 Mayan city of Palenque, Yucatan, Mexico:
 <img class="ui image" src="/images/palenque.jpg">
+<br />
+<img class="ui image" src="/images/palenque2.jpg">
+<br />
