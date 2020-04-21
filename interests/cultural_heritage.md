@@ -56,3 +56,20 @@ Mayan city of Chichen Itza, Yucatan, Mexico:
 <br />
 <img class="ui image" src="/images/chichen2.jpg">
 <br />
+
+Mayan city of Tikal, Yucatan, Guatemala:
+<img class="ui image" src="/images/tikal.jpg">
+<br />
+<img class="ui image" src="/images/tikal2.jpg">
+<br />
+
+Chan Chan, Chimu cuture, Peru:
+<img class="ui image" src="/images/chimu.jpg">
+<br />
+Huaca de la luna, Moche culture, Peru:
+<img class="ui image" src="/images/chimu2.jpg">
+<br />
+
+Kuelap, Chachapoyas culture, Peru:
+<img class="ui image" src="/images/kuelap.jpg">
+<br />
