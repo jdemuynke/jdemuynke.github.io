@@ -33,7 +33,7 @@ Several companies and institutions gathered together under the flag of BINCI to 
 The main outcome of BINCI was the audio content in binaural of the audio guides of 3 cultural sites throughout Europe:
 - La Fundació Miró, Barcelona, Spain
 <div class="one wide column">
-<img class="centered medium image" src="/images/fundacio_miro.jpg">
+<img class="ui centered medium image" src="/images/fundacio_miro.jpg">
 </div>
 - Die Alte Pinakothek, Munich, Germany
 <div class="one wide column">
