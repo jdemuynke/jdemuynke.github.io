@@ -49,6 +49,8 @@ So many other Brazilian musicians must be mentioned as well, like Criolo with hi
   <img class="ui centered medium image" src="/images/toquinho.jpg">
 </div>
 
+<br />
+
 Brazilian music is an endless universe which I'll continue to explore during countless years and draw my inspiration from with humility...
 
 <div class="one wide column">
