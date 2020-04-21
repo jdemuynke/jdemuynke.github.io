@@ -11,7 +11,7 @@ labels:
 summary: I literally fell in love with the beauty of Brazilian music.
 ---
 
-After many years of practice of the piano and the bass guitar in music bands, particularly playing versions of soul and funk music, I discovered the world of Brazilian music a few years back. I opened a tiny door that had remained closed until then and I discovered a whole musical universe.<br />
+After many years of practice of the piano and the bass guitar in music bands, particularly playing versions of soul and funk music, I discovered the world of Brazilian music a few years back, which led me to play bossa nova pieces on the guitar and a bit of cavaquinho too. I opened a tiny door that had remained closed until then and I discovered a whole musical universe...<br />
 
 Where to start from? Maybe with a pioneer and essential album released in 1959 that defined the principles of a brand new music style at the time called bossa nova: Chega de Saudade by João Gilberto. Remarkable by the beauty of its melodies and the sobriety of João's interpretation, it is often considered as the first bossa nova album. Co-authored by Antônio Carlos Jobim, Vinícius de Moraes, Ary Barroso and many more, it features beautiful tracks like ["Chega de Saudade"](https://www.youtube.com/watch?v=yUuJrpP0Mak), ["Desafinado"](https://www.youtube.com/watch?v=g6w3a2v_50U), ["Hó-Bá-Lá-Lá"](https://www.youtube.com/watch?v=eKy6NJO8GPQ), ["Bim-Bom"](https://www.youtube.com/watch?v=4JVi6iAQpJg) and ["Brigas, Nunca Mais"](https://www.youtube.com/watch?v=MDs0rh3UTgc).
 
