@@ -12,7 +12,7 @@ labels:
 summary: I teach fundamentals of acoustics in a Bachelor's degree in music and sound production for the entertainment industry.
 ---
 
-<img class="ui image" src="../images/logo_ENTI.jpg">
+<img class="ui image" src="/images/logo_ENTI.jpg">
 
 When I was proposed a few months ago to teach acoustics in [ENTI-UB](https://enti.cat/en/course/degree-music-sound-production/) (School of New Interactive Technologies), I first thought of my favourite teachers when I was myself studying. I've always had the feeling that these teachers largely contributed to my present career by transmitting me their knowledge and curiosity regarding some scientific topics.
 
@@ -41,5 +41,5 @@ Then came the time to give my first class. Drum roll... As expected, it was unea
 Now, I can confirm that I like to teach Acoustics, and that I have sympathy for my students too. There's nothing like the gratitude you can feel when teaching new stuff to students who are willing to learn!
 
 <div class="one wide column">
-  <img class="ui centered medium image" src="../images/demo_dummy_ENTI_500px.jpg">
+  <img class="ui centered medium image" src="/images/demo_dummy_ENTI_500px.jpg">
 </div>

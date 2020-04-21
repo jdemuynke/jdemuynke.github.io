@@ -32,14 +32,19 @@ Several companies and institutions gathered together under the flag of BINCI to 
 
 The main outcome of BINCI was the audio content in binaural of the audio guides of 3 cultural sites throughout Europe:
 - La Fundació Miró, Barcelona, Spain
-- Die Alte Pinakothek, Munich, Germany
-- StAndrews Castle, StAndrews, Scotland
-
-<div class="ui small centered images">
-<img class="ui image" src="/images/fundacio_miro.jpg">
-<img class="ui image" src="/images/Alte-pinakothek.jpg">
-<img class="ui image" src="/images/St-Andrews.jpg">
+<div class="one wide column">
+<img class="centered medium" src="/images/fundacio_miro.jpg">
 </div>
+- Die Alte Pinakothek, Munich, Germany
+<div class="one wide column">
+<img class="ui centered medium image" src="/images/Alte-pinakothek.jpg">
+</div>
+- StAndrews Castle, StAndrews, Scotland
+<div class="one wide column">
+<img class="ui centered medium image" src="/images/St-Andrews.jpg">
+</div>
+
+
 
 With this objective in mind, a suite of plugins allowing to create head-tracked binaural audio content has been developed in the project, validated by a carefully chosen users group, and provided to audio producers who designed the content of the audio guides. For the storytelling to reach a high level of realism and immersiveness, we gave the producers the possibility to mimic the exact acoustics of the rooms included in the visit of the targeted sites by using their unique reverberation patterns, captured beforehand in Ambisonics. On site, the visitors would be provided with a mobile device embedding an Ambisonic player and a pair of headphones equipped with a headtracker, thereby offering a dynamic and immersive binaural experience. Moreover, a software tool has been developed that allows the visitors to select the HRTFs among an HRTFs database that match best their own physiology for an even increased binaural experience. Opinion polls conducted at the end of the visit clearly showed that the immersive storytelling was well received and even left its mark to most of the visitors.<br />
 More information about BINCI can be found [here](https://binci.eu/).<br /><br />
