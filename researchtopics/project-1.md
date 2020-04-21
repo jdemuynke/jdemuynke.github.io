@@ -10,7 +10,7 @@ labels:
   - Acoustics measurements
   - HRTFs
   - Ambisonics Room Impulse Response
-summary: The interaction between a sound source and the room creates a series of echoes depending on its geometry and materials, referred to as room reverberation.
+summary: The interaction between a sound source and the room creates a series of echoes whose characteristics depend on its geometry and materials, and is referred to as room reverberation.
 ---
 
 
