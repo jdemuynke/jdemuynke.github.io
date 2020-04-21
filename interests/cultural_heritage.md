@@ -87,7 +87,7 @@ Kuelap, Chachapoyas culture, Peru:
 <br />
 
 Machu Picchu, Inca culture, Peru:
-<img class="ui image" src="/images/machu_picchu.jpg">
+<img class="ui image" src="/images/machu_picchu2.jpg">
 <br />
 
 Ollantaytambo, Inca culture, Peru:
@@ -95,7 +95,5 @@ Ollantaytambo, Inca culture, Peru:
 <br />
 
 Cuzco, Peru:
-<img class="ui image" src="/images/cuzco.jpg">
-<br />
 <img class="ui image" src="/images/cuzco2.jpg">
 <br />
