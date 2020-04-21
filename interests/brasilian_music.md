@@ -41,7 +41,15 @@ Samba is usually interpreted by orchestras composed of musicians playing various
 
 Among many Brazilian musicians who are seen in the documentary Brasileirinho, it's worth mentioning Yamandu Costa, considered to be a genius of the 7 strings Brazilian guitar, as seen in his interpretation of a columbian traditional piece called ["Porro"](https://www.youtube.com/watch?v=EXeHPUMpM2U). I was lucky enough to attend a concert of Yamandu Costa in Le New Morning in Paris in 2017, which completely blew my mind.
 
-<img class="ui image" src="/images/yamandu.jpg">
+<div class="one wide column">
+  <img class="ui centered medium image" src="/images/yamandu.jpg">
+</div>
+
+<br />
+
+<div class="one wide column">
+  <img class="ui centered medium image" src="/images/yamandu_new_morning.jpg">
+</div>
 
 So many other Brazilian musicians must be mentioned as well, like Criolo with his album ["Espiral de Ilusão"](https://www.youtube.com/watch?v=JDDxo7lcckI&t=303s), Gilberto Gil, Seu Jorge, Maria Bethânia, Jorge Ben, João Donato, Caetano Veloso, Adriana Calcanhotto, Toquinho, João Bosco, Marisa Monte, Chico Buarque, Hermeto Pascual, Elizeth Cardoso, Dilermando Reis, Paulinho da Viola, Ed Motta...
 
