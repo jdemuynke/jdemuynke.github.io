@@ -32,10 +32,10 @@ Etruscan necropolis of Tarchuna, Lazio, Italy:
 Etruscan city of Cerveteri, Lazio, Italy:
 <img class="ui image" src="/images/italy4.jpg">
 <br />
-Florence, Tuscany, Italy::
+Florence, Tuscany, Italy:
 <img class="ui image" src="/images/italy2.jpg">
 <br />
-Ancient city of Pompeii, Campania, Italy::
+Ancient city of Pompeii, Campania, Italy:
 <img class="ui image" src="/images/italy3.jpg">
 <br />
 

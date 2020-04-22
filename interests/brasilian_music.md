@@ -1,17 +1,17 @@
 ---
 layout: teaching
 type: teaching
-image: images/cartola.jpg
-title: Brazilian music
+image: images/raskal.jpg
+title: Musical background
 labels:
+  - Funk music
   - Bossa nova
-  - Samba
   - Saudade
 
-summary: I literally fell in love with the beauty of Brazilian music.
+summary: After many years playing different styles of music in bands, I literally fell in love with the beauty of Brazilian music.
 ---
 
-<img class="ui medium right floated rounded image" src="/images/62funk.jpg">
+<img class="ui medium right floated image" src="/images/62funk.jpg">
 
 After many years of piano and bass guitar practice in music bands, particularly in a soul and funk versions band, I discovered the world of Brazilian music a few years back, which led me to play bossa nova pieces on the guitar and a bit of cavaquinho too. I opened a tiny door that had remained closed until then and I discovered a whole musical universe full of saudade...<br />
 
@@ -55,8 +55,9 @@ Among many Brazilian musicians who are seen in the documentary Brasileirinho, it
 
 So many other Brazilian musicians must be mentioned as well, like Criolo with his album ["Espiral de Ilusão"](https://www.youtube.com/watch?v=JDDxo7lcckI&t=303s), Gilberto Gil, Seu Jorge, Maria Bethânia, Jorge Ben, João Donato, Caetano Veloso, Adriana Calcanhotto, Toquinho, João Bosco, Marisa Monte, Chico Buarque, Hermeto Pascual, Elizeth Cardoso, Dilermando Reis, Paulinho da Viola, Ed Motta...
 
-<div class="one wide column">
-  <img class="ui centered medium image" src="/images/toquinho.jpg">
+<div class="ui medium images">
+<img class="ui image" src="/images/toquinho.jpg">
+<img class="ui image" src="/images/cartola.jpg">
 </div>
 
 Brazilian music is an endless universe which I'll continue to explore during countless years and draw my inspiration from with humility...

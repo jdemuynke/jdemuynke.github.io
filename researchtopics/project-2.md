@@ -1,7 +1,7 @@
 ---
 layout: researchtopic
 type: researchtopics
-image: images/owl.jpg
+image: images/binaural_dog.png
 title: Binaural Hearing
 <!-- permalink: projects/BINCI -->
 # All dates must be YYYY-MM-DD format!
