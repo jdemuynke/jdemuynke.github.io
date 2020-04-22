@@ -17,9 +17,11 @@ As a child I started to learn classical piano, and joined my first band around 1
 
 A few years later, I started to play soul and funk versions with a newly created band, a great opportunity to learn how to properly "groove". Herbie Hancock, James Brown, Stevie Wonder, Average White Band, Isaac Hayes, The Commodores, Electro Deluxe, Earth Wind & Fire, Maceo Parker became my mentors, for my greatest pleasure.
 
-<div class="ui medium images">
-<img class="ui image" src="/images/fai2.jpg">
-<img class="ui image" src="/images/fai.jpg">
+<div class="one wide column">
+  <img class="ui centered medium image" src="/images/fai2.jpg">
+</div>
+<div class="one wide column">
+  <img class="ui centered medium image" src="/images/fai.jpg">
 </div>
 
 Later on, I discovered the world of Brazilian music, which led me to play bossa nova pieces on the classical guitar, and to try the cavaquinho too. It was like opening a tiny door that had remained closed until then, which unveiled a whole musical universe full of saudade...<br />
