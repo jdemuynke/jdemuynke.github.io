@@ -13,6 +13,8 @@ summary: After many years playing different styles of music in bands, I literall
 
 <img class="ui medium right floated image" src="/images/62funk.jpg">
 
+As a child I started to learn classical piano
+
 After many years of piano and bass guitar practice in music bands, particularly in a soul and funk versions band, I discovered the world of Brazilian music a few years back, which led me to play bossa nova pieces on the guitar and a bit of cavaquinho too. I opened a tiny door that had remained closed until then and I discovered a whole musical universe full of saudade...<br />
 
 Where to start from? Maybe with a pioneer and essential album released in 1959 that defined the principles of a brand new music style at the time called bossa nova: Chega de Saudade by João Gilberto. Remarkable by the beauty of its melodies and the sobriety of João's interpretation, it is often considered as the first bossa nova album. Co-authored by Antônio Carlos Jobim, Vinícius de Moraes, Ary Barroso and many more, it features beautiful tracks like ["Chega de Saudade"](https://www.youtube.com/watch?v=yUuJrpP0Mak), ["Desafinado"](https://www.youtube.com/watch?v=g6w3a2v_50U), ["Hó-Bá-Lá-Lá"](https://www.youtube.com/watch?v=eKy6NJO8GPQ), ["Bim-Bom"](https://www.youtube.com/watch?v=4JVi6iAQpJg) and ["Brigas, Nunca Mais"](https://www.youtube.com/watch?v=MDs0rh3UTgc).
@@ -41,7 +43,7 @@ Samba is usually interpreted by orchestras composed of musicians playing various
 <img class="ui image" src="/images/teresa.jpg">
 </div>
 
-Among many Brazilian musicians who are seen in the documentary Brasileirinho, it's worth mentioning Yamandu Costa, considered to be a genius of the 7 strings Brazilian guitar, as seen in his interpretation of a columbian traditional piece called ["Porro"](https://www.youtube.com/watch?v=EXeHPUMpM2U). I was lucky enough to attend a concert of Yamandu Costa in Le New Morning in Paris in 2017, which completely blew my mind.
+Among many Brazilian musicians starred in the documentary Brasileirinho, it's worth mentioning Yamandu Costa, considered to be a genius of the 7 strings Brazilian guitar, as seen in his interpretation of a columbian traditional piece called ["Porro"](https://www.youtube.com/watch?v=EXeHPUMpM2U). I was lucky enough to attend a concert of Yamandu Costa in Le New Morning in Paris in 2017, which completely blew my mind.
 
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/yamandu.jpg">

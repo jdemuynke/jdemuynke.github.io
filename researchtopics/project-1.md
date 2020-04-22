@@ -18,7 +18,7 @@ summary: The interaction between a sound source and the room creates a series of
 <img class="ui image" src="../images/standrews_500px.jpg">
 
 
-The reverberation of a room is composed of a series of reflexions of the original impulsive sound onto the room boundaries, each having its own time of arrival, direction of arrival, level and spectral content. Partially depending on the source position and listening position, the reverberation pattern of a room is unique and thereby can be seen as its *acoustic signature*.<br />
+The reverberation of a room is composed of a series of reflections of the original impulsive sound onto the room boundaries, each having its own time of arrival, direction of arrival, level and spectral content. Partially depending on the source position and listening position, the reverberation pattern of a room is unique and thereby can be seen as its *acoustic signature*.<br />
 
 <div class="ui medium images">
 <img class="ui image" src="../images/standrews2_500px.jpg">
