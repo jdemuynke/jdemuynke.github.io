@@ -13,13 +13,15 @@ summary: After many years playing different styles of music in bands, I literall
 
 <img class="ui medium right floated image" src="/images/62funk.jpg">
 
-As a child I started to learn classical piano, and joined my first band around 15. Once in high school we got the opportunity to give a concert during a social event organised by the school, which is when we realised that as a rock band we were lacking a bass... I needed nothing more to start playing the bass! On top of it, the concert was a success, especially in the eyes of our friends! I then decided to keep on with the bass, which led me to play in a ska band for some years, give more concerts around and release an album. <br />
+As a child I started to learn classical piano, and joined my first band around 15. Once in high school we got the opportunity to give a concert during a social event organised by the school, which is when we realised that as a rock band we were lacking a bass... I needed nothing more to start playing the bass! Moreover, the concert was a success, especially in the eyes of our friends! I then decided to keep on with the bass, which led me to play in a ska band for some years, give more concerts around and release an album. <br />
 
 A few years later, I started to play soul and funk versions with a newly created band, a great opportunity to learn how to properly "groove". Herbie Hancock, James Brown, Stevie Wonder, Average White Band, Isaac Hayes, The Commodores, Electro Deluxe, Earth Wind & Fire, Maceo Parker became my mentors, for my greatest pleasure.
 
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/fai2.jpg">
 </div>
+<br />
+
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/fai.jpg">
 </div>
@@ -57,7 +59,6 @@ Among many Brazilian musicians starred in the documentary Brasileirinho, it's wo
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/yamandu.jpg">
 </div>
-
 <br />
 
 <div class="one wide column">
