@@ -69,7 +69,7 @@ So many other Brazilian musicians must be mentioned as well, like Criolo with hi
 <img class="ui image" src="/images/cartola.jpg">
 </div>
 
-Brazilian music is an endless universe which I'll continue to explore during countless years and draw my inspiration from with humility...
+Brazilian music is an endless universe which I'll continue to explore during countless years in my new duet and draw my inspiration from with humility...
 
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/guitar.jpg">
