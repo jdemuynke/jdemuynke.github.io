@@ -12,12 +12,13 @@ summary: After many years playing different styles of music in bands, I literall
 ---
 
 <img class="ui medium right floated image" src="/images/62funk.jpg">
+<img class="ui medium left floated image" src="/images/fai.jpg">
 
-As a child I started to learn classical piano
+As a child I started to learn classical piano, and joined my first band around 15. Once in high school we got the opportunity to give a concert during a social event organised by the school, which is when we realised that as a rock band we were lacking a bass... I needed nothing more to start playing the bass! On top of it the concert was a success! I then decided to keep on with the bass, which led me to play in a ska band for some years, to give more concerts around and release an album.
+A few years later, I started to play soul and funk versions with a newly created band, a great opportunity to learn how to "groove". Herbie Hancock, James Brown, Stevie Wonder, Average White Band, Isaac Hayes, The Commodores, Electro Deluxe, Earth Wind & Fire, Maceo Parker became my mentors, for my greatest pleasure.
+Later, I discovered the world of Brazilian music, which led me to play bossa nova pieces on the classical guitar, and to try the cavaquinho too. It was like opening a tiny door that had remained closed until then, and I discovered a whole musical universe full of saudade...<br />
 
-After many years of piano and bass guitar practice in music bands, particularly in a soul and funk versions band, I discovered the world of Brazilian music a few years back, which led me to play bossa nova pieces on the guitar and a bit of cavaquinho too. I opened a tiny door that had remained closed until then and I discovered a whole musical universe full of saudade...<br />
-
-Where to start from? Maybe with a pioneer and essential album released in 1959 that defined the principles of a brand new music style at the time called bossa nova: Chega de Saudade by João Gilberto. Remarkable by the beauty of its melodies and the sobriety of João's interpretation, it is often considered as the first bossa nova album. Co-authored by Antônio Carlos Jobim, Vinícius de Moraes, Ary Barroso and many more, it features beautiful tracks like ["Chega de Saudade"](https://www.youtube.com/watch?v=yUuJrpP0Mak), ["Desafinado"](https://www.youtube.com/watch?v=g6w3a2v_50U), ["Hó-Bá-Lá-Lá"](https://www.youtube.com/watch?v=eKy6NJO8GPQ), ["Bim-Bom"](https://www.youtube.com/watch?v=4JVi6iAQpJg) and ["Brigas, Nunca Mais"](https://www.youtube.com/watch?v=MDs0rh3UTgc).
+Where to start from when it comes to Brazilian music? Maybe with a pioneer and essential album released in 1959 that defined the principles of a brand new music style at the time called bossa nova: Chega de Saudade by João Gilberto. Remarkable by the beauty of its melodies and the sobriety of João's interpretation, it is often considered as the first bossa nova album. Co-authored by Antônio Carlos Jobim, Vinícius de Moraes, Ary Barroso and many more, it features beautiful tracks like ["Chega de Saudade"](https://www.youtube.com/watch?v=yUuJrpP0Mak), ["Desafinado"](https://www.youtube.com/watch?v=g6w3a2v_50U), ["Hó-Bá-Lá-Lá"](https://www.youtube.com/watch?v=eKy6NJO8GPQ), ["Bim-Bom"](https://www.youtube.com/watch?v=4JVi6iAQpJg) and ["Brigas, Nunca Mais"](https://www.youtube.com/watch?v=MDs0rh3UTgc).
 
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/joao.jpg">
