@@ -11,7 +11,7 @@ labels:
   - HRTFs
   - BRIRs
   - HRTFs individualisation
-summary: Binaural hearing mainly rests on the pair of acoustic sensors located on either side of our head, among other physical attributes.
+summary: Binaural hearing rests principally on the pair of acoustic sensors located on either side of our head, among other physical attributes.
 ---
 
 
