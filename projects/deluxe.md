@@ -17,7 +17,7 @@ summary: Eurecat audio team collaborates with Deluxe in designing a plugin for m
 </div>
 <br />
 
-In a joint project of research and development between Eurecat and Deluxe, a major studio from the audiovisual industry, we collaborate with a multi Goya awarded sound mixer for designing the binaural plugin most suitable to the specific needs of the audiovisual industry.<br />
+In a joint project of research and development between Eurecat and Deluxe, a major studio from the audiovisual industry, we collaborate with a sound mixer awarded with several Goya awards along his career for designing the binaural plugin most suitable to the specific needs of the audiovisual industry.<br />
 
 <video controls width="500">
 
