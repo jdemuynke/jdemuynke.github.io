@@ -15,11 +15,11 @@ summary: For BINCI project we developed a suite of plugins for mixing in binaura
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/eurecat_logo.png">
-  <img class="ui image" src="../images/head_acoustics.png">
-  <img class="ui image" src="../images/3DSL.png">
-  <img class="ui image" src="../images/antenna_logo.png">
-  <img class="ui image" src="../images/VDP_Logo.png">
+  <img class="ui image" src="/images/eurecat_logo.png">
+  <img class="ui image" src="/images/head_acoustics.png">
+  <img class="ui image" src="/images/3DSL.png">
+  <img class="ui image" src="/images/antenna_logo.png">
+  <img class="ui image" src="/images/VDP_Logo.png">
 
 </div>
 
