@@ -87,7 +87,7 @@
       "website": "https://eurecat.org/en/field-of-knowledge/audiovisual-technologies/",
       "startDate": "2015",
       "endDate": "Present",
-      "summary": "Responsible of the binaural rendering of our 3D audio engine",
+      "summary": "In charge of the binaural rendering of our 3D audio engine",
       "highlights": [
         "Design of algorithms for processing the 3D audio content and rendering it over headphones and loudspeaker installations",
         "Acoustic measurements of type BRIRs, HRIRs, ambisonic IRs"
@@ -99,7 +99,7 @@
       "website": "https://www.parrot.com/fr/en#",
       "startDate": "2006",
       "endDate": "2014",
-      "summary": "Responsible of the audio quality of the products of the company",
+      "summary": "In charge of the audio performance of the products of the company",
       "highlights": [
         "Design of real time algorithms aiming to enhance the audio quality of audio products of the company: headphones, home loudspeaker, stereo boombox, car radio",
         "Conception of the acoustics of the audio products, jointly with an external audio consultant and the internal Product Design team"
