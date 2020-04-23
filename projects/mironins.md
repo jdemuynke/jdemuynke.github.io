@@ -25,6 +25,8 @@ For this project, Eurecat collaborates with several companies and institutions f
 - Soft For You
 - Universitat Pompeu Fabra
 
+<br />
+
 <div class="ui grid">
   <div class="ui small centered images">
     <img class="ui image" src="/images/fundacio.png">
