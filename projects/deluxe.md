@@ -38,6 +38,4 @@ For this project, Eurecat collaborates with several companies and institutions f
 
 The future visitor experience will bring together innovative installations combining Augmented Reality through tablets using latest advances in Deep Learning, binaural storytelling, video and light projections together with 3D audio, and paintings sonification. Mironins project is a great example of an interdisciplinary work at the crossroads of art and technology.
 
-<img class="ui image" src="/images/ar_museum.png">  
-
 More information about the first phase of Mironins project can be found [here](https://www.fundaciocatalunyacultura.cat/ca/llotja-de-projectes/3/mironins.html). More information about the second phase coming soon!

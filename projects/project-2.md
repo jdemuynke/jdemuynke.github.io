@@ -14,4 +14,4 @@ summary: We designed, built and calibrated a 26 loudspeakers system which, toget
 projecturl: https://www.metricasound.com/en/
 ---
 
-<img class="ui medium right floated rounded image" src="../images/metrica.jpg">
+<img class="ui medium right floated rounded image" src="/images/metrica.jpg">
