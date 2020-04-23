@@ -9,7 +9,7 @@ labels:
   - Interactive audio installation
   - Sonification of paintings
   - Augmented reality
-summary: Mironins project aims at redesigning the cultural experience offered during the visit of The Fundació Joan Miró in Barcelona.
+summary: Mironins project aims to redesign the cultural experience offered during the visit of The Fundació Joan Miró in Barcelona.
 
 ---
 
