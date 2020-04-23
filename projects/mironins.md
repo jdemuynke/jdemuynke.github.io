@@ -25,21 +25,15 @@ For this project, Eurecat collaborates with several companies and institutions f
 - Soft For You
 - Universitat Pompeu Fabra
 
-<div class="align-center">
-  <img class="ui small image" src="/images/fundacio.jpg">
-  <img class="ui small image" src="/images/eurecat_logo.jpg">
-  <img class="ui small image" src="/images/wildbytes.jpg">
-</div>
-
 <div class="ui small centered images">
-  <img class="ui image" src="/images/fundacio.jpg">
+  <img class="ui image" src="/images/fundacio.png">
   <img class="ui image" src="/images/eurecat_logo.png">
-  <img class="ui image" src="/images/wildbytes.jpg">
+  <img class="ui image" src="/images/wildbytes.png">
 </div>
 <div class="ui small centered images">
   <img class="ui image" src="/images/upf.png">
-  <img class="ui image" src="/images/sfy.jpg">
-  <img class="ui image" src="/images/cornelius.jpg">
+  <img class="ui image" src="/images/sfy.png">
+  <img class="ui image" src="/images/cornelius.png">
 </div>
 
 The future visitor experience will bring together innovative installations combining Augmented Reality through tablets using latest advances in Deep Learning, binaural storytelling, video and light projections together with 3D audio, and paintings sonification. Mironins project is a great example of an interdisciplinary work at the crossroads of art and technology.
