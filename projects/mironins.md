@@ -17,6 +17,8 @@ summary: Mironins project aims to redesign the cultural experience offered durin
   <img class="ui image" src="/images/fundacio.jpg">
   <img class="ui image" src="/images/eurecat_logo.png">
   <img class="ui image" src="/images/wildbytes.jpg">
+</div>
+<div class="ui small images">
   <img class="ui image" src="/images/upf.png">
   <img class="ui image" src="/images/sfy.jpg">
   <img class="ui image" src="/images/cornelius.jpg">
