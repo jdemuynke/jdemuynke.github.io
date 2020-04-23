@@ -8,7 +8,7 @@ date: 2019-09-01
 labels:
   - Binaural audio
   - Audio for cine
-summary: Eurecat audio team collaborates with Deluxe in designing a plugin for mixing in binaural meant for the soundtrack of audiovisual productions.
+summary: Eurecat audio team collaborates with Deluxe in designing a plugin for mixing in binaural the soundtrack of audiovisual productions.
 
 ---
 
