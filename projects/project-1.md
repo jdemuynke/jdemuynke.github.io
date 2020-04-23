@@ -25,6 +25,8 @@ summary: For BINCI project we developed a suite of plugins for mixing in binaura
     <img class="ui image" src="/images/VDP_Logo.png">
   </div>
 </div>
+<br />
+
 
 Several companies and institutions gathered together under the flag of BINCI to form a multidisciplinary consortium:
 - Eurecat, Centre Tecnòlogic de Catalunya, Barcelona, Spain
