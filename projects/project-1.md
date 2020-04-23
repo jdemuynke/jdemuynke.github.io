@@ -14,13 +14,16 @@ labels:
 summary: For BINCI project we developed a suite of plugins for mixing in binaural the audio guides content of some museums and cultural sites, plus an ambisonics player supporting head tracking for an enhanced visitor experience.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="/images/eurecat_logo.png">
-  <img class="ui image" src="/images/head_acoustics.png">
-  <img class="ui image" src="/images/3DSL.png">
-  <img class="ui image" src="/images/antenna_logo.png">
-  <img class="ui image" src="/images/VDP_Logo.png">
-
+<div class="ui grid">
+  <div class="ui small centered images">
+    <img class="ui image" src="/images/eurecat_logo.png">
+    <img class="ui image" src="/images/head_acoustics.png">
+    <img class="ui image" src="/images/3DSL.png">
+  </div>
+  <div class="ui small centered images">
+    <img class="ui image" src="/images/antenna_logo.png">
+    <img class="ui image" src="/images/VDP_Logo.png">
+  </div>
 </div>
 
 Several companies and institutions gathered together under the flag of BINCI to form a multidisciplinary consortium:
