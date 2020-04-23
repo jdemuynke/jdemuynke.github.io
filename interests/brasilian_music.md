@@ -15,7 +15,7 @@ summary: After many years playing different styles of music in bands, I literall
 
 As a child I started to learn classical piano, and joined my first band around 15. Once in high school we got the opportunity to give a concert during a social event organised by the school, which is when we realised that as a rock band we were lacking a bass... I needed nothing more to start playing the bass! Moreover, the concert was a success, especially in the eyes of our friends! I then decided to keep on with the bass, which led me to play in a ska band for some years, give more concerts around and release an album. <br />
 
-A few years later, I started to play soul and funk versions with a newly created band, a great opportunity to learn how to properly "groove". Herbie Hancock, James Brown, Stevie Wonder, Average White Band, Isaac Hayes, The Commodores, Electro Deluxe, Earth Wind & Fire, Maceo Parker became my mentors, for my greatest pleasure.
+A few years later, I started to play soul and funk versions with a newly created band, a great opportunity for me to get the "groove". Herbie Hancock, James Brown, Stevie Wonder, Average White Band, Isaac Hayes, The Commodores, Electro Deluxe, Earth Wind & Fire, Maceo Parker became my mentors, for my greatest pleasure.
 
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/fai2.jpg">
@@ -72,7 +72,7 @@ So many other Brazilian musicians must be mentioned as well, like Criolo with hi
 <img class="ui image" src="/images/cartola.jpg">
 </div>
 
-Brazilian music is an endless universe which I'll continue to explore during countless years in my new duet and draw my inspiration from with humility...
+What fascinates me the most with Brazilian music is its universally recognised beauty that wins everyone's heart, while it is constructed upon very rich, even complex harmonies and rhythmic patterns. Brazilian music is an endless universe which I'll continue to explore during countless years in my new duet and draw my inspiration from with humility...
 
 <div class="one wide column">
   <img class="ui centered medium image" src="/images/guitar.jpg">
