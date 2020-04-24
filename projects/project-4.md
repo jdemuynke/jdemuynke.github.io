@@ -12,7 +12,7 @@ labels:
 summary: The soundtrack of a contemporary dance performance was live mixed in 3D with the help of Sfëar plugins and a 3D loudspeaker layout.
 
 ---
-
+<br />
 
 <div class="ui grid">
   <div class="ui medium centered images">
