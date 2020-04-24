@@ -14,6 +14,14 @@ labels:
 summary: For BINCI project we developed a suite of plugins for mixing in binaural the audio guides content of some museums and cultural sites, plus an ambisonics player supporting head tracking for an enhanced visitor experience.
 ---
 
+Several companies and institutions gathered together under the flag of BINCI to form a multidisciplinary consortium:
+- Eurecat, Centre Tecnòlogic de Catalunya, Barcelona, Spain
+- HEAD acoustics, Herzogenrath, Germany
+- 3D Sound Labs, Paris, France
+- Antenna International, London, United Kingdom
+- Voodoopop Studios, Berlin, Germany
+<br />
+
 <div class="ui grid">
   <div class="ui small centered images">
     <img class="ui image" src="/images/eurecat_logo.png">
@@ -26,14 +34,6 @@ summary: For BINCI project we developed a suite of plugins for mixing in binaura
   </div>
 </div>
 <br />
-
-
-Several companies and institutions gathered together under the flag of BINCI to form a multidisciplinary consortium:
-- Eurecat, Centre Tecnòlogic de Catalunya, Barcelona, Spain
-- HEAD acoustics, Herzogenrath, Germany
-- 3D Sound Labs, Paris, France
-- Antenna International, London, United Kingdom
-- Voodoopop Studios, Berlin, Germany
 
 The main outcome of BINCI was the audio content in binaural of the audio guides of 3 cultural sites throughout Europe:
 - La Fundació Miró, Barcelona, Spain
