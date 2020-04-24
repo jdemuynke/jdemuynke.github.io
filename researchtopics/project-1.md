@@ -20,19 +20,31 @@ summary: The interaction between a sound source and the room creates a series of
 
 The reverberation of a room is composed of a series of reflections of the original impulsive sound onto the room boundaries, each having its own time of arrival, direction of arrival, level and spectral content. Partially depending on the source position and listening position, the reverberation pattern of a room is unique and thereby can be seen as its *acoustic signature*.<br />
 
-<div class="ui medium images">
-<img class="ui image" src="../images/standrews2_500px.jpg">
-<img class="ui image" src="../images/standrews3_500px.jpg">
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/standrews2_500px.jpg">
+    <img class="ui image" src="/images/standrews3_500px.jpg">
+  </div>
 </div>
+<br />
 
 The reverberation pattern of a room is retrieved from its impulse response, which can be measured by different well-known techniques. Most of these involve using a loudspeaker for playing back a specific stimulus signal and a microphone for capturing the series of subsequent echoes. The microphone can be of various type among single capsule microphones with a variety of directivity patterns, ambisonic microphones of different orders, or Head And Torso Simulators (HATS). Depending on the type of used microphone, the impulse response is called either Room Impulse Response (RIR), Ambsionic Room Impulse Response (ARIR), Binaural Room Impulse Response (BRIR) or Head Related Room Impulse Response (HRIR) in the case of anechoic conditions.<br />
 
-<div class="ui medium images">
-<img class="ui image" src="../images/pinakotheke_500px.png">
-<img class="ui image" src="../images/eurecat_500px.jpg">
-<img class="ui image" src="../images/deluxe2_500px.jpg">
-<img class="ui image" src="../images/standrews4_500px.jpg">
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/pinakotheke_500px.png">
+    <img class="ui image" src="/images/eurecat_500px.jpg">
+  </div>
 </div>
+<br />
+
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/deluxe2_500px.jpg">
+    <img class="ui image" src="/images/standrews4_500px.jpg">
+  </div>
+</div>
+<br />
 
 Carrying out room impulse response measurements has several fields of application: it may be used for analysing the acoustic characteristics of a room like the reverberation time and the room modes, or it can be used for simulating the acoustics of a desired room in an auralisation process.<br />
 
