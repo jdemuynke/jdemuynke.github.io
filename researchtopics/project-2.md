@@ -20,6 +20,7 @@ summary: Binaural hearing rests principally on the pair of acoustic sensors loca
     <img class="ui image" src="/images/binaural_cues.png">
   </div>
 </div>
+<br />
 
 Binaural hearing allows every human being to localise sound sources in its surroundings, from left to right, front and back, up and down. This ability is due to some binaural cues that dictate an incoming direction when processed by our brain. The two main binaural cues for the horizontal plane are the *Interaural Time Difference* (ITD) and the *Interaural Level Difference* (ILD).<br />
 
