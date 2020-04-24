@@ -122,5 +122,54 @@
         "Prototyping of a music video game controlled by a MIDI instrument with inertial sensors, based on Unity and Max/MSP"
       ]
     }
+  ],
+  "publications": [
+    {
+      "name": "Binaural sound for audio guides: an enhanced visitor’s experience in museums and archaeological sites",
+      "releaseDate": "2020",
+      "summary": "To be presented at the 2020 Annual Congress of European Association of Archaeologists",
+      "website": "https://www.e-a-a.org/EAA2020/Programme.aspx?WebsiteKey=4245c0d1-9c0e-4a58-bfa2-906885ad5f28&hkey=e2646dc0-ed23-404c-ad20-24129c9e69c3&Program=3#Program"
+    },
+    {
+      "name": "Distance-coded Ambisonics Formats and their Reproduction on Headphones and Loudspeaker Arrays",
+      "releaseDate": "2019",
+      "summary": "Supervision of a student's Master's project from IEM, Graz, Austria",
+      "website": "https://fedora.kug.ac.at/fedora/get/o:92195/bdef:Content/get"
+    },
+    {
+      "name": "Ambisonics DRIR as a new convention of the Spatially Oriented Format for Acoustics",
+      "releaseDate": "2018",
+      "summary": "eBrief presented at the 144th AES Convention 2018, Milan, italy",
+      "website": "http://www.aes.org/e-lib/browse.cfm?elib=19560"
+    },
+    {
+      "name": "Tools for the production of spatial audio within BINCI",
+      "releaseDate": "2018",
+      "summary": "Presented at DAGA 2018, München, Germany",
+      "website": "https://www.researchgate.net/publication/336739126_Tools_for_the_production_of_spatial_audio_within_BINCI"
+    },
+    {
+      "name": "Ambisonic Room Impulse Responses Database",
+      "releaseDate": "2018",
+      "summary": "Publication of a database of Ambisonics Room Impulse Responses measured in the scope of BINCI project, in SOFA format",
+      "website": "https://zenodo.org/record/1417727#.XRjnHJMzZ24"
+    },
+    {
+      "name": "Reverberation technique for 3D audio",
+      "releaseDate": "2018",
+      "summary": "Patent application EP18382220",
+    },
+    {
+      "name": "Integral active speaker system which can be configured to be used alone or in pairs, with enhancement of the stereo image",
+      "releaseDate": "2012",
+      "summary": "Patent EP2709380",
+      "website": "https://patents.google.com/patent/EP2709380A1/en"
+    },
+    {
+      "name": "Method and a system for reconstituting low frequencies in audio signal",
+      "releaseDate": "2008",
+      "summary": "Patent US8213636",
+      "website": "http://www.freepatentsonline.com/8213636.html"
+    }
   ]
 }
