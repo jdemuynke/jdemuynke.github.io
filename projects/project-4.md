@@ -12,8 +12,8 @@ labels:
 summary: The soundtrack of a contemporary dance performance was live mixed in 3D with the help of Sfëar plugins and a 3D loudspeaker layout.
 
 ---
-<br />
 
+<br />
 <div class="ui grid">
   <div class="ui medium centered images">
     <img class="ui image" src="/images/TNC/TNC1.jpg">
@@ -23,8 +23,8 @@ summary: The soundtrack of a contemporary dance performance was live mixed in 3D
 <br />
 
 Eurecat collaborated with the Teatre Nacional de Catalunya for '3Dfying' the soundtrack of *Nom* by Cesc Gelabert, a contemporary dance performance choreographed by Gelabert Azzopardi Companyia de Dansa and performed during ten consecutive shows. This included the installation and calibration of a 3D loudspeaker layout in the venue and some training course on Sfëar plugins given to the sound engineer. The soundtrack composed by Borja Ramos included scene based content (High Order Ambisonics) created in advance as well as channel based content (direct loudspeaker adressing) created in live by playing acoustic instruments, thereby offering a thrilling immersive experience to the audience.
-<br />
 
+<br />
 <div class="ui grid">
   <div class="ui medium centered images">
     <img class="ui image" src="/images/TNC/TNC3.jpg">

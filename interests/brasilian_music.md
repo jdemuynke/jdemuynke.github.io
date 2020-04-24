@@ -44,8 +44,8 @@ Another masterpiece of Bossa Nova is the soundtrack of the movie Orfeo Negro dir
 <br />
 
 Brazilian music has a immense variety of styles and influences, among which one can mention the choro, whose one of the greatest composers was Pixinguinha who composed ["Carinhsoso"](https://www.youtube.com/watch?v=8IhqXDQkWpQ), and the samba popularised by many musicians including Baden Powell who was one of the most prominent Brazilian guitarists as proven by his interpretation of ["Samba Triste"](https://www.youtube.com/watch?v=TSUNbvb-DWg), or Cartola who composed gems like ["Preciso me encontrar"](https://www.youtube.com/watch?v=fUjOfsoBhMY).
-<br />
 
+<br />
 <div class="ui grid">
   <div class="ui medium centered images">
     <img class="ui image" src="/images/baden.jpg">
@@ -55,8 +55,8 @@ Brazilian music has a immense variety of styles and influences, among which one 
 <br />
 
 Samba is usually interpreted by orchestras composed of musicians playing various traditional rhythmic and melodic instruments, who spontaneously gather around tables, in a formation called roda de samba. Teresa Cristina is a singer who popularises the style samba with songs like ["Portela na avenida"](https://www.youtube.com/watch?v=ZmumSvvsAUM) and ["Nem ouro, nem prata"](https://www.youtube.com/watch?v=IXddWFQyIaM). She also acts in the musical documentary film Brasileirinho about choro music and interprets ["Um calo de estimação"](https://www.youtube.com/watch?v=hDlbRo9HECk). Samba and choro are remarkable by the large variety of instruments traditionally used: guitar, cavaquinho, mandoline, flute, saxophone, trombone, pandeiro, cuíca, tamborim, zabumba and many more.
-<br />
 
+<br />
 <div class="ui grid">
   <div class="ui medium centered images">
     <img class="ui image" src="/images/roda.jpg">
@@ -78,8 +78,8 @@ Among many Brazilian musicians starred in the documentary Brasileirinho, it's wo
 <br />
 
 So many other Brazilian musicians must be mentioned as well, like Criolo with his album ["Espiral de Ilusão"](https://www.youtube.com/watch?v=JDDxo7lcckI&t=303s), Gilberto Gil, Seu Jorge, Maria Bethânia, Jorge Ben, João Donato, Caetano Veloso, Adriana Calcanhotto, Toquinho, João Bosco, Marisa Monte, Chico Buarque, Hermeto Pascual, Elizeth Cardoso, Dilermando Reis, Paulinho da Viola, Ed Motta...
-<br />
 
+<br />
 <div class="ui grid">
   <div class="ui medium centered images">
     <img class="ui image" src="/images/toquinho.jpg">
