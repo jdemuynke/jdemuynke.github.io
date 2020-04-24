@@ -21,8 +21,8 @@ In a joint project of research and development between Eurecat and Deluxe, a maj
 
 <video width="500" controls controlsList="nodownload">
 
-    <source src="/videos/.webm"
-            type="video/webm">
+    <source src="/videos/DLT_EURECAT.mp4"
+            type="video/mp4">
 
     Sorry, your browser doesn't support embedded videos.
 </video>
