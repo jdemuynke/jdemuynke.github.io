@@ -47,6 +47,14 @@ Brazilian music has a immense variety of styles and influences, among which one 
 <img class="ui image" src="/images/pixinguinha.jpg">
 </div>
 
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/baden.jpg">
+    <img class="ui image" src="/images/pixinguinha.jpg">
+  </div>
+</div>
+
+
 Samba is usually interpreted by orchestras composed of musicians playing various traditional rhythmic and melodic instruments, who spontaneously gather around tables, in a formation called roda de samba. Teresa Cristina is a singer who popularises the style samba with songs like ["Portela na avenida"](https://www.youtube.com/watch?v=ZmumSvvsAUM) and ["Nem ouro, nem prata"](https://www.youtube.com/watch?v=IXddWFQyIaM). She also acts in the musical documentary film Brasileirinho about choro music and interprets ["Um calo de estimação"](https://www.youtube.com/watch?v=hDlbRo9HECk). Samba and choro are remarkable by the large variety of instruments traditionally used: guitar, cavaquinho, mandoline, flute, saxophone, trombone, pandeiro, cuíca, tamborim, zabumba and many more.
 
 <div class="ui medium images">
