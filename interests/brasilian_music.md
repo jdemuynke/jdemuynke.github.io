@@ -17,13 +17,11 @@ As a child I started to learn classical piano, and joined my first band around 1
 
 A few years later, I started to play soul and funk versions with a newly created band, a great opportunity for me to get the "groove". Herbie Hancock, James Brown, Stevie Wonder, Average White Band, Isaac Hayes, The Commodores, Electro Deluxe, Earth Wind & Fire, Maceo Parker became my mentors, for my greatest pleasure.
 
-<div class="one wide column">
-  <img class="ui centered medium image" src="/images/fai2.jpg">
-</div>
-<br />
-
-<div class="one wide column">
-  <img class="ui centered medium image" src="/images/fai.jpg">
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/fai2.jpg">
+    <img class="ui image" src="/images/fai.jpg">
+  </div>
 </div>
 
 Later on, I discovered the world of Brazilian music, which led me to play bossa nova pieces on the classical guitar, and to try the cavaquinho out. It was like opening a tiny door that had remained closed until then, which unveiled a whole musical universe full of saudade...<br />
@@ -42,11 +40,6 @@ Another masterpiece of Bossa Nova is the soundtrack of the movie Orfeo Negro dir
 
 Brazilian music has a immense variety of styles and influences, among which one can mention the choro, whose one of the greatest composers was Pixinguinha who composed ["Carinhsoso"](https://www.youtube.com/watch?v=8IhqXDQkWpQ), and the samba popularised by many musicians including Baden Powell who was one of the most prominent Brazilian guitarists as proven by his interpretation of ["Samba Triste"](https://www.youtube.com/watch?v=TSUNbvb-DWg), or Cartola who composed gems like ["Preciso me encontrar"](https://www.youtube.com/watch?v=fUjOfsoBhMY).
 
-<div class="ui medium images">
-<img class="ui image" src="/images/baden.jpg">
-<img class="ui image" src="/images/pixinguinha.jpg">
-</div>
-
 <div class="ui grid">
   <div class="ui medium centered images">
     <img class="ui image" src="/images/baden.jpg">
@@ -57,9 +50,11 @@ Brazilian music has a immense variety of styles and influences, among which one 
 
 Samba is usually interpreted by orchestras composed of musicians playing various traditional rhythmic and melodic instruments, who spontaneously gather around tables, in a formation called roda de samba. Teresa Cristina is a singer who popularises the style samba with songs like ["Portela na avenida"](https://www.youtube.com/watch?v=ZmumSvvsAUM) and ["Nem ouro, nem prata"](https://www.youtube.com/watch?v=IXddWFQyIaM). She also acts in the musical documentary film Brasileirinho about choro music and interprets ["Um calo de estimação"](https://www.youtube.com/watch?v=hDlbRo9HECk). Samba and choro are remarkable by the large variety of instruments traditionally used: guitar, cavaquinho, mandoline, flute, saxophone, trombone, pandeiro, cuíca, tamborim, zabumba and many more.
 
-<div class="ui medium images">
-<img class="ui image" src="/images/roda.jpg">
-<img class="ui image" src="/images/teresa.jpg">
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/roda.jpg">
+    <img class="ui image" src="/images/teresa.jpg">
+  </div>
 </div>
 
 Among many Brazilian musicians starred in the documentary Brasileirinho, it's worth mentioning Yamandu Costa, considered to be a genius of the 7 strings Brazilian guitar, as seen in his interpretation of a columbian traditional piece called ["Porro"](https://www.youtube.com/watch?v=EXeHPUMpM2U). I was lucky enough to attend a concert of Yamandu Costa in Le New Morning in Paris in 2017, which completely blew my mind.
@@ -75,9 +70,11 @@ Among many Brazilian musicians starred in the documentary Brasileirinho, it's wo
 
 So many other Brazilian musicians must be mentioned as well, like Criolo with his album ["Espiral de Ilusão"](https://www.youtube.com/watch?v=JDDxo7lcckI&t=303s), Gilberto Gil, Seu Jorge, Maria Bethânia, Jorge Ben, João Donato, Caetano Veloso, Adriana Calcanhotto, Toquinho, João Bosco, Marisa Monte, Chico Buarque, Hermeto Pascual, Elizeth Cardoso, Dilermando Reis, Paulinho da Viola, Ed Motta...
 
-<div class="ui medium images">
-<img class="ui image" src="/images/toquinho.jpg">
-<img class="ui image" src="/images/cartola.jpg">
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/toquinho.jpg">
+    <img class="ui image" src="/images/cartola.jpg">
+  </div>
 </div>
 
 What fascinates me the most with Brazilian music is its universally recognised beauty that wins everyone's heart, while it is constructed upon very rich, even complex harmonies and rhythmic patterns. Brazilian music is an endless universe which I'll continue to explore during countless years in my new duet and draw my inspiration from with humility...
