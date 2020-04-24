@@ -14,12 +14,12 @@ labels:
 summary: Binaural hearing rests principally on the pair of acoustic sensors located on either side of our head, among other physical attributes.
 ---
 
-
-<div class="ui medium images">
-<img class="ui image" src="../images/listening_test.jpeg">
-<img class="ui image" src="../images/binaural_cues.png">
+<div class="ui grid">
+  <div class="ui medium centered images">
+    <img class="ui image" src="/images/listening_test.jpeg">
+    <img class="ui image" src="/images/binaural_cues.png">
+  </div>
 </div>
-
 
 Binaural hearing allows every human being to localise sound sources in its surroundings, from left to right, front and back, up and down. This ability is due to some binaural cues that dictate an incoming direction when processed by our brain. The two main binaural cues for the horizontal plane are the *Interaural Time Difference* (ITD) and the *Interaural Level Difference* (ILD).<br />
 
@@ -29,16 +29,16 @@ However, ILD and ITD are not sufficient to distinguish between a source coming f
 
 All these spatial cues can be captured by measuring the spatial filters between every position of space and the two ears, called *Head Related Impulse Responses* (HRIRs) when done in anechoic conditions and *Binaural Room Impulse Responses* (BRIRs) when done in a reverberant room. Although several public databases of HRIRs are available for download, either measured with a HATS or with a binaural microphone worn by individuals, at Eurecat we are used to carry out our own HRIRs and BRIRs measurements. With this material at hand we compute binaural decoders following our own method inspired by the most recently published techniques. The binaural decoders are meant for the binaural rendering of the ambisonic content created with Sfëar plugins, be it static (head-locked) or dynamic (head-tracked). Moreover, we use to store these measurement data into SOFA files of type SimpleFreeFieldHRIR, which makes convenient to change the flavour of the binaural rendering.<br />
 
-<img class="ui image" src="../images/itd_detected.png">
+<img class="ui image" src="/images/itd_detected.png">
 
 A key aspect of these techniques is the ability to detect the ITD of each pair of HRIRs or BRIRs. Contrary to HRIRs, some BRIRs may not exhibit their main peak when the direct sound reaches the ear, but rather when does a strong reflexion after bouncing off a reflective surface of the room. This is often the case in the contra lateral HRIR (opposite ear) with lateral sources. Our technique shows quite good performance in these borderline cases, as shown in the above polar plots.<br />
 
-<img class="ui image" src="../images/itd_mesh.png">
+<img class="ui image" src="/images/itd_mesh.png">
 
 Another important aspect of these techniques is the ability to model the ITD as a function of the source position (azimuth, elevation and distance to some extent) and the diameter of the head. At Eurecat we developed a spherical head model showing quite accurate performance as illustrated by the mesh in the above plot (ITD in samples@48kHz, as a function of azimuth and elevation angles, source at 2 meters).<br />
 
-<img class="ui image" src="../images/polar_extra_ild_1kHz.png">
+<img class="ui image" src="/images/polar_extra_ild_1kHz.png">
 
 A last word about the near field. With a source in the far field, i.e. beyond about 1 meter, the ILD and ITD are independent of the source distance and depend only on the azimuth and elevation angles. On the contrary, the binaural cues of a source in the near field are distance dependent, in particular the ILD increases dramatically when the source gets closer to the ear, as illustrated at discrete distances in the above plot, as a continuous function of distance and azimuth angle in the plot below. The specific behaviour of the binaural cues in the near field is the subject of research at Eurecat, with the purpose of modelling near field HRIRs for later reuse in an auralisation process in order to simulate very close sound sources.
 
-<img class="ui image" src="../images/extra_ild_linear_upto_1.0kHz_mesh.png">
+<img class="ui image" src="/images/extra_ild_linear_upto_1.0kHz_mesh.png">
