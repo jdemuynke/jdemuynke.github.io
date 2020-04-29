@@ -17,7 +17,7 @@ summary: Eurecat audio team collaborates with Deluxe in designing a plugin for m
 </div>
 <br />
 
-In a joint project of research and development between Eurecat and Deluxe, a major studio from the audiovisual industry, we collaborate with a sound mixer awarded with several Goya awards along his career for designing the binaural plugin most suitable to the specific needs of the audiovisual industry.
+In a joint project of research and development between Eurecat and Deluxe, a major studio from the audiovisual industry, we collaborate with Marc Orts, a sound mixer awarded with several Goya awards along his career for designing the binaural plugin most suitable to the specific needs of the audiovisual industry. An interview of Marc Orts can be found [here](https://produccionaudiovisual.com/produccion-cine/entrevista-al-mezclador-de-sonido-marc-orts/).
 
 <br />
 Below an example of a movie scene whose soundtrack was partly mixed with the binaural plugin. Put your headphones on!!!

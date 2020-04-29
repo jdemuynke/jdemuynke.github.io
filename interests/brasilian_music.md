@@ -15,7 +15,7 @@ summary: After many years playing different styles of music in bands, I literall
 
 As a child I started to learn classical piano, and joined my first band around 15. Once in high school we got the opportunity to give a concert during a social event organised by the school, which is when we realised that as a rock band we were lacking a bass... I needed nothing more to start playing the bass! Moreover, the concert was a success, especially in the eyes of our friends! I then decided to keep on with the bass, which led me to play in a ska band for some years, give more concerts around and release an album. <br />
 
-A few years later, I started to play soul and funk versions with a newly created band, a great opportunity for me to get the "groove". Herbie Hancock, James Brown, Stevie Wonder, Average White Band, Isaac Hayes, The Commodores, Electro Deluxe, Earth Wind & Fire, Maceo Parker became my mentors, for my greatest pleasure.
+A few years later, I started to play soul and funk versions with a newly created band, a great opportunity for me to get the "groove". [Herbie Hancock](https://www.youtube.com/watch?v=Eq7wSIDjAes), [James Brown](https://www.youtube.com/watch?v=Nl-RVIdTUVI), [Stevie Wonder](https://www.youtube.com/watch?v=hYKYka-PNt0), [Average White Band](https://www.youtube.com/watch?v=75bYDYLSP0o), [Isaac Hayes](https://www.youtube.com/watch?v=Q429AOpL_ds), [The Commodores](https://www.youtube.com/watch?v=1WDWFkrssx8), [Electro Deluxe](https://www.youtube.com/watch?v=DE09dS8QLJI), [Earth Wind & Fire](https://www.youtube.com/watch?v=6Z2xClustQo), [Maceo Parker](https://www.youtube.com/watch?v=4F7QsLdxCiU) became my mentors, for my greatest pleasure.
 
 <br />
 <div class="ui grid">
