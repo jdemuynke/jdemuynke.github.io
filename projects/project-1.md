@@ -66,4 +66,4 @@ Measurement campaigns of Ambisonics Room Impulse Responses were established in a
 </div>
 <br />
 
-These measurement datasets were [published in Zenodo](https://zenodo.org/record/1299894#.XSHGfNMzbMU) and subject to a [proposal of a new Convention of SOFA](http://www.aes.org/e-lib/browse.cfm?elib=19560) (Spatially Oriented Format for Acoustics) presented at the 144th AES Convention in Milan, Italy in 2018.
+These measurement datasets were [published in Zenodo](https://zenodo.org/record/1417727#.XqsOThMzZ24) and subject to a [proposal of a new Convention of SOFA](http://www.aes.org/e-lib/browse.cfm?elib=19560) (Spatially Oriented Format for Acoustics) presented at the 144th AES Convention in Milan, Italy in 2018.
