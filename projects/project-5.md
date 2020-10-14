@@ -18,7 +18,7 @@ At Talkartive I'm the audio guy, in charge of the mixing. Our podcasts feature b
 Give a try to *Talkartive* podcasts on [Mixcloud](https://www.mixcloud.com/TALKARTIVE/).
 
 More information about *Talkartive* can be found [here](http://talkartive.com/).<br /><br />
-Follow *Talkartive* on [facebook](https://www.facebook.com/Talkrtive/), [instagram] (https://www.instagram.com/talkrtive_/) and [twitter](https://twitter.com/talkrtive_).
+Follow *Talkartive* on [facebook](https://www.facebook.com/Talkrtive/), [instagram](https://www.instagram.com/talkrtive_/) and [twitter](https://twitter.com/talkrtive_).
 
 <br />
 <div class="ui grid">
