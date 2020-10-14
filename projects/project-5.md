@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: images/logo_talkartive_transparent.jpg
-title: Immersive Podcasts
+title: Talkartive
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-01
 labels:
   - Culture podcasts
   - Immersive audio
-summary: Talkartive produces culture podcasts in binaural audio that take the listener to an immersive audio walkthrough.
+summary: Talkartive produces culture podcasts in binaural audio that take the listener to an immersive walkthrough.
 
 ---
 
