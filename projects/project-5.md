@@ -14,7 +14,8 @@ summary: Talkartive produces culture podcasts in binaural audio that take the li
 
 *Talkartive* offers the listener immersive audio experiences through its culture podcasts. The first podcasts serie deals with Barcelona traditional celebrations. Put your headphones on and let you be taken to Barcelona's streets!
 <br />
-At Talkartive I'm the audio guy, in charge of the mixing. Our podcasts feature both 3D audio in-situ recordings and extra sounds spatialized in post-production. I try to take advantage of the latest trends and tools in 3D audio technology for offering the most realistic experience to our listeners.
+
+At Talkartive I'm the audio guy, in charge of the mixing. Our podcasts feature both in-situ 3D audio recordings and extra sounds spatialized in post-production. I try to take advantage of the latest trends and tools in 3D audio technology for offering the most realistic experience to our listeners.
 
 Give a try to *Talkartive* podcasts on [Mixcloud](https://www.mixcloud.com/TALKARTIVE/).
 
