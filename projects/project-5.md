@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/logo_talkartive_transparent.jpg
-title: Talkartive - Immersive Podcasts
+title: Immersive Podcasts
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-01
 labels:
