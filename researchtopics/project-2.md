@@ -11,7 +11,7 @@ labels:
   - HRTFs
   - BRIRs
   - HRTFs individualisation
-summary: Binaural hearing rests principally on the pair of acoustic sensors located on either side of our head, among other physical attributes.
+summary: Binaural hearing arises from the presence of two acoustic sensors – our ears – located on either side of the head. When a sound is captured by this pair of sensors, the resulting auditory cues convey its spatial attributes, offering a detailed spatial description of the auditory scene.
 ---
 
 <br />
@@ -23,9 +23,9 @@ summary: Binaural hearing rests principally on the pair of acoustic sensors loca
 </div>
 <br />
 
-Binaural hearing allows every human being to localise sound sources in its surroundings, from left to right, front and back, up and down. This ability is due to some binaural cues that dictate an incoming direction when processed by our brain. The two main binaural cues for the horizontal plane are the *Interaural Time Difference* (ITD) and the *Interaural Level Difference* (ILD).<br />
+Binaural hearing enables mammals to localize sound sources in their surroundings, distinguishing directions from left to right, front to back, and up to down. This ability is driven by auditory cues — both monaural and binaural — that provide information about the direction and distance of sound sources. The two primary binaural cues are the *Interaural Time Difference* (ITD) and the *Interaural Level Difference* (ILD), which allow the localization of sound sources along surfaces that are axisymmetric around the interaural axis, known as the *Cones of Confusion*. Monaural cues, primarily derived from the spectral content of sound, help resolve ambiguities and distinguish between different positions within a cone of confusion.<br />
 
-The ITD refers to the timing difference for a sound when reaching our two ears and is mainly effective at low frequencies, whereas the ILD refers to the level difference between our ears and is mainly effective at high frequencies. For example, a sound that reaches the right ear before the left ear was probably emitted by a source located on the right of the subject. If the frequency is high enough, the signal reaching the right ear exhibits a higher level than the signal reaching the left ear due to the shadowing effect of the head.<br />
+ITD refers to the difference in the time of arrival of a sound at the two ears and is most effective at low frequencies. For example, if a sound reaches the right ear before the left ear, it is likely emitted from a source located in the right hemisphere. ILD refers to the difference in sound level between the ears and is most effective at high frequencies. For instance, at high frequencies, the sound reaching the right ear will exhibit a higher level than that reaching the left ear due to the shadowing effect of the head. The complementarity between these two primary binaural cues across the audible frequency range is known as the duplex theory, proposed by Lord Rayleigh in 1907.<br />
 
 However, ILD and ITD are not sufficient to distinguish between a source coming from the front and a source coming from the back, a common issue often referred to as *front-back confusion*. Nor do they for elevated sources. Instead, monaural cues like spectral content modification allow to tell the difference between the front and the back, as well as between the horizontal plane and an elevated plane. In general a source coming from the back will exhibit less high frequencies than a frontal source because of the low pass filtering provoked by the back part of the outer ear (helix). Head rotational movements can also help in avoiding front-back confusion since the ITD and ILD will change according to the direction of the head rotation and the source position. As for an elevated source, the reflections onto the shoulders and the skin convolutions of the outer ear (antihelix, tragus, scapha, concha) interfere with the direct sound thereby provoking comb-filtering in the perceived signal. The interference patterns are the main cue in the perception of an elevated source.<br />
 
